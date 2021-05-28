@@ -1,0 +1,1274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Hooks">
+      <UniqueIdentifier>{28f4bd99-a783-4695-8f5e-b166abbb0eb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{6002316e-1783-4051-bdab-80489871d5a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\OsirisSDK">
+      <UniqueIdentifier>{ca8163ba-4d12-4d77-bf61-26a2f2dd75db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\SDK">
+      <UniqueIdentifier>{7e6027ba-eb13-4378-ace0-8a3e5c5d0b66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\CSGOSimpleSDK">
+      <UniqueIdentifier>{daa81844-3e89-4e76-82ae-ba74f36e6fd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\CSGOSimpleSDK\math">
+      <UniqueIdentifier>{883b6d86-80e1-41af-95bd-6a465c190a80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hooks\Antaeus">
+      <UniqueIdentifier>{4fb90d5f-0382-4719-b021-032c775c57b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hooks\Antaeus\Hooks">
+      <UniqueIdentifier>{8992e6cb-25c4-4d64-ac20-2c77e2a99be8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hooks\Antaeus\Hooks\UserMode">
+      <UniqueIdentifier>{f00d662d-9bb7-450f-a885-0b435b3e48cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Hooks\Antaeus\Hooks\UserMode\MinHook">
+      <UniqueIdentifier>{70f18488-1cda-456c-9178-eacc9cd9bbe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde">
+      <UniqueIdentifier>{38d192ff-9d41-413e-9fae-244e0199a421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pendelum">
+      <UniqueIdentifier>{600c0df0-8871-411a-ac2a-8512d0e51d3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks">
+      <UniqueIdentifier>{0a47d81e-44c0-40bd-8032-f5dd365a8d0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\SDKAddition">
+      <UniqueIdentifier>{533c0713-7c74-4205-88fb-150f70e43514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\SDKAddition\Utils">
+      <UniqueIdentifier>{48f4bd18-b0df-4bc0-9d22-fd0aa279a29d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\RageBot">
+      <UniqueIdentifier>{73719b66-004c-41aa-838d-325e54935056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{4e0dee82-fbc7-4793-a7d3-913e1fa8bcb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\OTHER">
+      <UniqueIdentifier>{acf2865b-8d54-4e2b-a1cb-8cf7a239f17a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{81155d46-13ac-49f9-964f-03dfe0c762d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\MicroPather">
+      <UniqueIdentifier>{080d1e1d-f6a8-4bb6-a833-3740a91566be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Header Files\NewFilter1">
+      <UniqueIdentifier>{1bd8117b-c74d-4d15-8ec3-4f0abc96d25c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Walkbot">
+      <UniqueIdentifier>{41c6d14b-ccb7-47f4-9d2f-5fa1b5b6026d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Sounds">
+      <UniqueIdentifier>{47d31f4b-7886-4382-aa64-48fce805e38f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\SendNetMSG">
+      <UniqueIdentifier>{e2832f14-a13a-4029-b522-888e4d90da01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\SteamWorks">
+      <UniqueIdentifier>{3cc79663-92b5-45d4-9880-dabf93ac0135}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\SteamWorks\steam">
+      <UniqueIdentifier>{6017ff1e-ff50-4ec6-b18a-4b6459ab9c04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\SteamWorks\redistributable_bin">
+      <UniqueIdentifier>{298bc41b-b9b0-4d88-bad3-ac3e98189371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\SteamWorks">
+      <UniqueIdentifier>{ba8d50b9-dce0-4763-8a5c-8242b7052fd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\SteamWorks\Headers">
+      <UniqueIdentifier>{34b87c1c-f529-4615-81de-c1f64e7f33ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\SDK\Tier0">
+      <UniqueIdentifier>{3a9529a4-b553-4693-91b8-baf2cf712c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Exploits">
+      <UniqueIdentifier>{83ed7225-6a19-479f-b47a-b3b84d2c74e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\SteamWorks\Headers\NewFilter1">
+      <UniqueIdentifier>{85482049-d0bc-47e6-8f89-679e7e8aab55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\NewFilter1">
+      <UniqueIdentifier>{0eb515ae-a6a4-4cbf-a7f5-5adb9b76e900}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\SteamNetworkingSockets">
+      <UniqueIdentifier>{d57e8330-d566-44ec-90c5-ec59fdfe6064}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\GameSockets">
+      <UniqueIdentifier>{a1bde1ad-502c-4373-ae64-b87643dab8c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\GameSockets\common">
+      <UniqueIdentifier>{7a3d9ae2-f23c-4881-8d5b-4dff0daadf84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\tier1">
+      <UniqueIdentifier>{2ec5f429-cb4d-4d22-a3c3-7334bfec20b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other\Networking">
+      <UniqueIdentifier>{e2c9f073-a767-42bc-9830-e60ebca82010}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Interfaces.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Angle.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\AnimState.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Beams.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\ClassId.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Client.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\ClientClass.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\ConVar.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Cvar.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Engine.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\EngineTrace.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Entity.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\EntityList.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\FrameStage.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\GameEvent.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\GameMovement.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\GameUI.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\GlobalVars.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\GlowObjectManager.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Input.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\InputSystem.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\ItemSchema.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\KeyValues.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Localize.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\LocalPlayer.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Material.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\MaterialSystem.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Math.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\matrix3x4.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\ModelInfo.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\ModelRender.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\MoveHelper.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\NetworkChannel.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\NetworkStringTable.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Pad.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Panel.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\PhysicsSurfaceProps.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Prediction.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Recv.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\RenderContext.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\RenderView.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Sound.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\SoundEmitter.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\SoundInfo.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\StudioRender.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Surface.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\UserCmd.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Utils.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\UtlVector.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\VarMapping.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\Vector.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\VirtualMethod.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\WeaponData.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\WeaponId.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\OsirisSDK\WeaponSystem.h">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigStructs.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Netvars.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fnv.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks.h">
+      <Filter>Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineHooks.h">
+      <Filter>Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientHooks.h">
+      <Filter>Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="OtherHooks.h">
+      <Filter>Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Antaeus\Hooks.h">
+      <Filter>Hooks\Antaeus</Filter>
+    </ClInclude>
+    <ClInclude Include="Antaeus\Hooks\UserMode\MinHook.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode</Filter>
+    </ClInclude>
+    <ClInclude Include="Antaeus\Hooks\HookType.h">
+      <Filter>Hooks\Antaeus\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\IEffects.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\Detour.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\VmtHook.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\buffer.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\MinHook.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\trampoline.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde32.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde64.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\pstdint.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\table32.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\table64.h">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="Pendelum\Pendelum.h">
+      <Filter>Pendelum</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Glow.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Backtrack.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\DlightPlayer.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Visuals.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\EntityListCull.hpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\Utils\VectorMath.h">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\Utils\MatrixMath.h">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\CustomRay.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\Utils\CapsuleMath.h">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\CCapsule.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\CSphere.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Aimbot.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\RageBot\Ragebot.h">
+      <Filter>Hacks\RageBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\Animations.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\AutoWall.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="MemAlloc.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\RageBot\Resolver.h">
+      <Filter>Hacks\RageBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\OTHER\Debug.h">
+      <Filter>Hacks\OTHER</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Misc.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\AntiAim.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\EnginePrediction.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="COMPILERDEFINITIONS.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\CViewSetup.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="GameData.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Chams.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Grief.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\EventListener.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\RageBot\Multipoints.h">
+      <Filter>Hacks\RageBot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\AimAssist.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\LagHack.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\Utils\ScreenMath.h">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\TickbaseManager.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\MicroPather\micropather.h">
+      <Filter>Resource\MicroPather</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\MicroPather\nav_area.h">
+      <Filter>Resource\MicroPather</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\MicroPather\nav_buffer.h">
+      <Filter>Resource\MicroPather</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\MicroPather\nav_file.h">
+      <Filter>Resource\MicroPather</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\MicroPather\nav_hiding_spot.h">
+      <Filter>Resource\MicroPather</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\MicroPather\nav_structs.h">
+      <Filter>Resource\MicroPather</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Renderables.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\ModelRenderSystem.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\CMatRenderData.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\ViewRender.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pendelum\D3D9Render.h">
+      <Filter>Pendelum</Filter>
+    </ClInclude>
+    <ClInclude Include="Pendelum\Renderer.h">
+      <Filter>Pendelum</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Walkbot\Walkbot.h">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\NavFile.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\PlayerRecords.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Walkbot\WalkbotTargetingSystem.h">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Walkbot\WalkbotAimBot.h">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Walkbot\WalkbotNetworking.h">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\SoundSystem.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Walkbot\WalkbotSoundDispatchSystem.h">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\base64.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\Sounds.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\TwentySeconds.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\PenalCode.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\GLAWK.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\PS1.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\ESP.h">
+      <Filter>Hacks</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\SendNetMSG\SendNetMsg.h">
+      <Filter>Hacks\SendNetMSG</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamapplist.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamapps.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamappticket.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamclient.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamcontroller.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamfriends.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamgamecoordinator.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamgameserver.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamgameserverstats.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamhtmlsurface.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamhttp.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteaminput.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteaminventory.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteammasterserverupdater.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteammatchmaking.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteammusic.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteammusicremote.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworking.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworkingmessages.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworkingsockets.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworkingutils.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamparentalsettings.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamps3overlayrenderer.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamremoteplay.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamremotestorage.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamscreenshots.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamugc.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamuser.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamuserstats.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamutils.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\isteamvideo.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\matchmakingtypes.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api_common.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api_flat.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api_internal.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steam_gameserver.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamclientpublic.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamdatagram_tickets.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamencryptedappticket.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamhttpenums.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamnetworkingtypes.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamps3params.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamtypes.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamuniverse.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\SteamWorks\SteamWorks.h">
+      <Filter>Hacks\SteamWorks</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\cstrike15_gcmessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\engine_gcmessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\steammessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\netmessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\bitbuf.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Walkbot\WalkbotController.h">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\CNetMessageBinder.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\MINE.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\REED.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\DUDE.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\BTG.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Pendelum\Pendelum2.h">
+      <Filter>Pendelum</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\utldelegate.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\clzss.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\utlvector.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\utlmemory.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\meh.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\memalloc.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="Timing.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Sounds\BOGAN_CUNT.h">
+      <Filter>Resource\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\bitvec.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\basetypes.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\IceKey.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Exploits\Crasher.h">
+      <Filter>Hacks\Exploits</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\checksum_crc.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\Utils\PanksBigInteger.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\OTHER\GOTVConnect.h">
+      <Filter>Hacks\OTHER</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\MessageSender.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\IMatchFramework.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\MMEventListener.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\AutoQueuer.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\AutoWinner.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\CHudChat.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\ClientModeShared.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\CrossCheatTalk.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\IPanoramaUIEngine.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\UIEngine.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_certs.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_udp.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\SteamWorks\steam\steamnetworkingcustomsignaling.h">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\SteamNetSocketsMessageHandler.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\CrossCheatTalkMessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\IVDebugOverlay.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\vphysics_interface.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SteamNetHooks.h">
+      <Filter>Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\GameSockets\CSteamNetworkingMessage.h">
+      <Filter>Resource\GameSockets</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\GameSockets\CSteamNetworkConnectionBase.h">
+      <Filter>Resource\GameSockets</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\GameSockets\Internal.h">
+      <Filter>Resource\GameSockets</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\GameSockets\StatsUtils.h">
+      <Filter>Resource\GameSockets</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\GameSockets\percentile_generator.h">
+      <Filter>Resource\GameSockets</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\GameSockets\SNP.h">
+      <Filter>Resource\GameSockets</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\fmtstr.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\netadr.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\utlbuffer.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\utlhashmap.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\utliterator.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\utllinkedlist.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\utlmemory.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\utlpriorityqueue.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\tier1\utlvector.h">
+      <Filter>Resource\tier1</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\cstrike15_usermessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\IClientRenderable.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\Translator.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\ChatConsole.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerList.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDKAddition\AvatarImage.h">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClInclude>
+    <ClInclude Include="Other\Networking\HarpoonNetworkingSockets.h">
+      <Filter>Other\Networking</Filter>
+    </ClInclude>
+    <ClInclude Include="Hacks\Exploits\MMEvent.h">
+      <Filter>Hacks\Exploits</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\UtlStringMap.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\utlsymbol.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\utlbuffer.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\byteswap.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\Tier0\datamap.h">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\INetSupport.h">
+      <Filter>SDK\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\base_gcmessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\econ_gcmessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\gcsdk_gcmessages.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\Protobuf\Headers\gcsystemmsgs.pb.h">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SDK\IFileSystem.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\OsirisSDK\Entity.cpp">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\OsirisSDK\GlobalVars.cpp">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\OsirisSDK\KeyValues.cpp">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\OsirisSDK\Utils.cpp">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Netvars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineHooks.cpp">
+      <Filter>Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientHooks.cpp">
+      <Filter>Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="OtherHooks.cpp">
+      <Filter>Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks.cpp">
+      <Filter>Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\Detour.cpp">
+      <Filter>Hooks\Antaeus\Hooks\UserMode</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook.cpp">
+      <Filter>Hooks\Antaeus\Hooks\UserMode</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\VmtHook.cpp">
+      <Filter>Hooks\Antaeus\Hooks\UserMode</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\VmtSwap.cpp">
+      <Filter>Hooks\Antaeus\Hooks\UserMode</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\buffer.c">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hook.c">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\trampoline.c">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde32.c">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook\hde</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde64.c">
+      <Filter>Hooks\Antaeus\Hooks\UserMode\MinHook\hde</Filter>
+    </ClCompile>
+    <ClCompile Include="Pendelum\Pendelum.cpp">
+      <Filter>Pendelum</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Glow.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Backtrack.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\DlightPlayer.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Visuals.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\EntityListCull.cpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\Utils\VectorMath.cpp">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\Utils\MatrixMath.cpp">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\Utils\CapsuleMath.cpp">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Aimbot.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\RageBot\Ragebot.cpp">
+      <Filter>Hacks\RageBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\Animations.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\AutoWall.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\RageBot\Resolver.cpp">
+      <Filter>Hacks\RageBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\OTHER\Debug.cpp">
+      <Filter>Hacks\OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Misc.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\AntiAim.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\EnginePrediction.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\OsirisSDK\AnimState.cpp">
+      <Filter>SDK\OsirisSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="GameData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Chams.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Grief.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\EventListener.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\RageBot\Multipoints.cpp">
+      <Filter>Hacks\RageBot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\AimAssist.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\LagHack.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\Utils\ScreenMath.cpp">
+      <Filter>SDK\SDKAddition\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\TickbaseManager.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\CSphere.cpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\MicroPather\micropather.cpp">
+      <Filter>Resource\MicroPather</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\MicroPather\nav_area.cpp">
+      <Filter>Resource\MicroPather</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\MicroPather\nav_buffer.cpp">
+      <Filter>Resource\MicroPather</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\MicroPather\nav_file.cpp">
+      <Filter>Resource\MicroPather</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\MicroPather\nav_hiding_spot.cpp">
+      <Filter>Resource\MicroPather</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Renderables.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDK\ModelRenderSystem.cpp">
+      <Filter>SDK\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="Pendelum\D3D9Render.cpp">
+      <Filter>Pendelum</Filter>
+    </ClCompile>
+    <ClCompile Include="Pendelum\Renderer.cpp">
+      <Filter>Pendelum</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Walkbot\Walkbot.cpp">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\NavFile.cpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\PlayerRecords.cpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Walkbot\WalkbotTargetingSystem.cpp">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Walkbot\WalkbotAimBot.cpp">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Walkbot\WalkbotNetworking.cpp">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\SoundSystem.cpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Walkbot\WalkbotSoundDispatchSystem.cpp">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Sounds\Sounds.cpp">
+      <Filter>Resource\Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\ESP.cpp">
+      <Filter>Hacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\SendNetMSG\SendNetMsg.cpp">
+      <Filter>Hacks\SendNetMSG</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\SteamWorks\SteamWorks.cpp">
+      <Filter>Hacks\SteamWorks</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\cstrike15_gcmessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\engine_gcmessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\steammessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\netmessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDK\bitbuf.cpp">
+      <Filter>SDK\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Walkbot\WalkbotController.cpp">
+      <Filter>Hacks\Walkbot</Filter>
+    </ClCompile>
+    <ClCompile Include="Pendelum\Pendelum2.cpp">
+      <Filter>Pendelum</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDK\Tier0\utldelegate.cpp">
+      <Filter>SDK\SDK\Tier0</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDK\clzss.cpp">
+      <Filter>SDK\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="Timing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDK\IceKey.cpp">
+      <Filter>SDK\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Exploits\Crasher.cpp">
+      <Filter>Hacks\Exploits</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDK\checksum_crc.cpp">
+      <Filter>SDK\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\Utils\PanksBigInteger.cpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\OTHER\GOTVConnect.cpp">
+      <Filter>Hacks\OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\MessageSender.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\AutoQueuer.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\AutoWinner.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\CrossCheatTalk.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_certs.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_udp.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\SteamSocketsCrossCheatTalk.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\SteamNetSocketsMessageHandler.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\CrossCheatTalkMessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="SteamNetHooks.cpp">
+      <Filter>Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\cstrike15_usermessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\Translator.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\ChatConsole.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\SDKAddition\AvatarImage.cpp">
+      <Filter>SDK\SDKAddition</Filter>
+    </ClCompile>
+    <ClCompile Include="Other\Networking\HarpoonNetworkingSockets.cpp">
+      <Filter>Other\Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="Hacks\Exploits\MMEvent.cpp">
+      <Filter>Hacks\Exploits</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\base_gcmessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\econ_gcmessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\gcsdk_gcmessages.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Protobuf\Headers\gcsystemmsgs.pb.cc">
+      <Filter>Resource\SteamWorks\Headers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\SteamWorks\steam\steam_api.json">
+      <Filter>Resource\SteamWorks\steam</Filter>
+    </None>
+  </ItemGroup>
+</Project>

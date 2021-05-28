@@ -1,0 +1,3 @@
+namespace AutoWinner {
+	void Run();
+}

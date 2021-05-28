@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{c4ed252d-749a-40a4-bd4a-73f16b140bad}</ProjectGuid>
+    <RootNamespace>Harpoon</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <EnableASAN>false</EnableASAN>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <TargetName>$(ProjectName)</TargetName>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);C:\Users\user\source\repos\Harpoon\Harpoon\Resource\Protobuf</LibraryPath>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);C:\vcpkg\installed\x86-windows-static-md\include;C:\Users\user\source\repos\Harpoon\Harpoon\GameNetworkingSockets</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);C:\Users\user\source\repos\Harpoon\Harpoon\Resource\Protobuf;C:\Users\user\source\repos\Harpoon\Harpoon\GameNetworkingSockets\</LibraryPath>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);C:\Users\user\source\repos\Harpoon\Harpoon\Resource\Protobuf</IncludePath>
+    <TargetName>$(ProjectName)</TargetName>
+    <ReferencePath>$(VC_ReferencesPath_x86); C:\Users\user\source\repos\Harpoon\Harpoon\GameNetworkingSockets\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;HARPOON_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalOptions>/Gw /utf-8  /D "_SILENCE_ALL_CXX17_DEPRECATION_WARNINGS" /D "_CRT_SECURE_NO_WARNINGS"  /D "_SILENCE_ALL_CXX17_DEPRECATION_WARNINGS" /D "_SILENCE_ALL_CXX20_DEPRECATION_WARNINGS" /D "_CRT_SECURE_NO_WARNINGS" </AdditionalOptions>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>EnableAllWarnings</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;HARPOON_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeaderFile>
+      </PrecompiledHeaderFile>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OmitFramePointers>true</OmitFramePointers>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalOptions>/Gw /utf-8  /D "_SILENCE_ALL_CXX17_DEPRECATION_WARNINGS" /D "_SILENCE_ALL_CXX20_DEPRECATION_WARNINGS" /D "_CRT_SECURE_NO_WARNINGS" /D "STEAMNETWORKINGSOCKETS_ENABLE_SDR" %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:\Users\user\source\repos\Harpoon\Harpoon\Resource\SteamWorks\;C:\Users\user\source\repos\Harpoon\Harpoon\GameNetworkingSockets\public\;C:\Users\user\source\repos\Harpoon\Harpoon\Resource\Protobuf\Headers\;C:\Users\user\source\repos\Harpoon\Harpoon\Resource\GameSockets</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;HARPOON_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;HARPOON_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableUAC>false</EnableUAC>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Antaeus\Hooks.h" />
+    <ClInclude Include="Antaeus\Hooks\HookType.h" />
+    <ClInclude Include="Antaeus\Hooks\UserMode\MinHook.h" />
+    <ClInclude Include="ClientHooks.h" />
+    <ClInclude Include="COMPILERDEFINITIONS.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="ConfigStructs.h" />
+    <ClInclude Include="EngineHooks.h" />
+    <ClInclude Include="fnv.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="GameData.h" />
+    <ClInclude Include="Hacks\AimAssist.h" />
+    <ClInclude Include="Hacks\Aimbot.h" />
+    <ClInclude Include="Hacks\AntiAim.h" />
+    <ClInclude Include="Hacks\Backtrack.h" />
+    <ClInclude Include="Hacks\Chams.h" />
+    <ClInclude Include="Hacks\DlightPlayer.h" />
+    <ClInclude Include="Hacks\ESP.h" />
+    <ClInclude Include="Hacks\Exploits\Crasher.h" />
+    <ClInclude Include="Hacks\Exploits\MMEvent.h" />
+    <ClInclude Include="Hacks\Glow.h" />
+    <ClInclude Include="Hacks\Grief.h" />
+    <ClInclude Include="Hacks\LagHack.h" />
+    <ClInclude Include="Hacks\Misc.h" />
+    <ClInclude Include="Hacks\OTHER\Debug.h" />
+    <ClInclude Include="Hacks\OTHER\GOTVConnect.h" />
+    <ClInclude Include="Hacks\RageBot\Multipoints.h" />
+    <ClInclude Include="Hacks\RageBot\Ragebot.h" />
+    <ClInclude Include="Hacks\RageBot\Resolver.h" />
+    <ClInclude Include="Hacks\Renderables.h" />
+    <ClInclude Include="Hacks\SendNetMSG\SendNetMsg.h" />
+    <ClInclude Include="Hacks\SteamWorks\SteamWorks.h" />
+    <ClInclude Include="Hacks\TickbaseManager.h" />
+    <ClInclude Include="Hacks\Visuals.h" />
+    <ClInclude Include="Hacks\Walkbot\Walkbot.h" />
+    <ClInclude Include="Hacks\Walkbot\WalkbotAimBot.h" />
+    <ClInclude Include="Hacks\Walkbot\WalkbotController.h" />
+    <ClInclude Include="Hacks\Walkbot\WalkbotNetworking.h" />
+    <ClInclude Include="Hacks\Walkbot\WalkbotSoundDispatchSystem.h" />
+    <ClInclude Include="Hacks\Walkbot\WalkbotTargetingSystem.h" />
+    <ClInclude Include="Hooks.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\Detour.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\buffer.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde32.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde64.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\pstdint.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\table32.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\table64.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\MinHook.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\MinHook\trampoline.h" />
+    <ClInclude Include="Hooks\Antaeus\Hooks\UserMode\VmtHook.h" />
+    <ClInclude Include="Interfaces.h" />
+    <ClInclude Include="MemAlloc.h" />
+    <ClInclude Include="Memory.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Netvars.h" />
+    <ClInclude Include="OtherHooks.h" />
+    <ClInclude Include="Other\Animations.h" />
+    <ClInclude Include="Other\AutoQueuer.h" />
+    <ClInclude Include="Other\AutoWall.h" />
+    <ClInclude Include="Other\AutoWinner.h" />
+    <ClInclude Include="Other\base64.h" />
+    <ClInclude Include="Other\ChatConsole.h" />
+    <ClInclude Include="Other\CrossCheatTalk.h" />
+    <ClInclude Include="Other\EnginePrediction.h" />
+    <ClInclude Include="Other\EventListener.h" />
+    <ClInclude Include="Other\MessageSender.h" />
+    <ClInclude Include="Other\MMEventListener.h" />
+    <ClInclude Include="Other\Networking\HarpoonNetworkingSockets.h" />
+    <ClInclude Include="Other\SteamNetSocketsMessageHandler.h" />
+    <ClInclude Include="Other\Translator.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Pendelum\D3D9Render.h" />
+    <ClInclude Include="Pendelum\Pendelum.h" />
+    <ClInclude Include="Pendelum\Pendelum2.h" />
+    <ClInclude Include="Pendelum\Renderer.h" />
+    <ClInclude Include="PlayerList.h" />
+    <ClInclude Include="Resource\GameSockets\CSteamNetworkConnectionBase.h" />
+    <ClInclude Include="Resource\GameSockets\CSteamNetworkingMessage.h" />
+    <ClInclude Include="Resource\GameSockets\Internal.h" />
+    <ClInclude Include="Resource\GameSockets\percentile_generator.h" />
+    <ClInclude Include="Resource\GameSockets\SNP.h" />
+    <ClInclude Include="Resource\GameSockets\StatsUtils.h" />
+    <ClInclude Include="Resource\MicroPather\micropather.h" />
+    <ClInclude Include="Resource\MicroPather\nav_area.h" />
+    <ClInclude Include="Resource\MicroPather\nav_buffer.h" />
+    <ClInclude Include="Resource\MicroPather\nav_file.h" />
+    <ClInclude Include="Resource\MicroPather\nav_hiding_spot.h" />
+    <ClInclude Include="Resource\MicroPather\nav_structs.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\base_gcmessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\CrossCheatTalkMessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\cstrike15_gcmessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\cstrike15_usermessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\econ_gcmessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\engine_gcmessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\gcsdk_gcmessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\gcsystemmsgs.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\netmessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\steammessages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_certs.pb.h" />
+    <ClInclude Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_udp.pb.h" />
+    <ClInclude Include="Resource\Sounds\BOGAN_CUNT.h" />
+    <ClInclude Include="Resource\Sounds\BTG.h" />
+    <ClInclude Include="Resource\Sounds\DUDE.h" />
+    <ClInclude Include="Resource\Sounds\GLAWK.h" />
+    <ClInclude Include="Resource\Sounds\MINE.h" />
+    <ClInclude Include="Resource\Sounds\PenalCode.h" />
+    <ClInclude Include="Resource\Sounds\PS1.h" />
+    <ClInclude Include="Resource\Sounds\REED.h" />
+    <ClInclude Include="Resource\Sounds\Sounds.h" />
+    <ClInclude Include="Resource\Sounds\TwentySeconds.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamapplist.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamapps.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamappticket.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamclient.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamcontroller.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamfriends.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamgamecoordinator.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamgameserver.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamgameserverstats.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamhtmlsurface.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamhttp.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteaminput.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteaminventory.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteammasterserverupdater.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteammatchmaking.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteammusic.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteammusicremote.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworking.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworkingmessages.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworkingsockets.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamnetworkingutils.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamparentalsettings.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamps3overlayrenderer.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamremoteplay.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamremotestorage.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamscreenshots.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamugc.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamuser.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamuserstats.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamutils.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\isteamvideo.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\matchmakingtypes.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamclientpublic.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamdatagram_tickets.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamencryptedappticket.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamhttpenums.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamnetworkingcustomsignaling.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamnetworkingtypes.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamps3params.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamtypes.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steamuniverse.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api_common.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api_flat.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steam_api_internal.h" />
+    <ClInclude Include="Resource\SteamWorks\steam\steam_gameserver.h" />
+    <ClInclude Include="Resource\tier1\fmtstr.h" />
+    <ClInclude Include="Resource\tier1\netadr.h" />
+    <ClInclude Include="Resource\tier1\utlbuffer.h" />
+    <ClInclude Include="Resource\tier1\utlhashmap.h" />
+    <ClInclude Include="Resource\tier1\utliterator.h" />
+    <ClInclude Include="Resource\tier1\utllinkedlist.h" />
+    <ClInclude Include="Resource\tier1\utlmemory.h" />
+    <ClInclude Include="Resource\tier1\utlpriorityqueue.h" />
+    <ClInclude Include="Resource\tier1\utlvector.h" />
+    <ClInclude Include="SDK\OsirisSDK\Angle.h" />
+    <ClInclude Include="SDK\OsirisSDK\AnimState.h" />
+    <ClInclude Include="SDK\OsirisSDK\Beams.h" />
+    <ClInclude Include="SDK\OsirisSDK\ClassId.h" />
+    <ClInclude Include="SDK\OsirisSDK\Client.h" />
+    <ClInclude Include="SDK\OsirisSDK\ClientClass.h" />
+    <ClInclude Include="SDK\OsirisSDK\ConVar.h" />
+    <ClInclude Include="SDK\OsirisSDK\Cvar.h" />
+    <ClInclude Include="SDK\OsirisSDK\Engine.h" />
+    <ClInclude Include="SDK\OsirisSDK\EngineTrace.h" />
+    <ClInclude Include="SDK\OsirisSDK\Entity.h" />
+    <ClInclude Include="SDK\OsirisSDK\EntityList.h" />
+    <ClInclude Include="SDK\OsirisSDK\FrameStage.h" />
+    <ClInclude Include="SDK\OsirisSDK\GameEvent.h" />
+    <ClInclude Include="SDK\OsirisSDK\GameMovement.h" />
+    <ClInclude Include="SDK\OsirisSDK\GameUI.h" />
+    <ClInclude Include="SDK\OsirisSDK\GlobalVars.h" />
+    <ClInclude Include="SDK\OsirisSDK\GlowObjectManager.h" />
+    <ClInclude Include="SDK\OsirisSDK\Input.h" />
+    <ClInclude Include="SDK\OsirisSDK\InputSystem.h" />
+    <ClInclude Include="SDK\OsirisSDK\ItemSchema.h" />
+    <ClInclude Include="SDK\OsirisSDK\KeyValues.h" />
+    <ClInclude Include="SDK\OsirisSDK\Localize.h" />
+    <ClInclude Include="SDK\OsirisSDK\LocalPlayer.h" />
+    <ClInclude Include="SDK\OsirisSDK\Material.h" />
+    <ClInclude Include="SDK\OsirisSDK\MaterialSystem.h" />
+    <ClInclude Include="SDK\OsirisSDK\Math.h" />
+    <ClInclude Include="SDK\OsirisSDK\matrix3x4.h" />
+    <ClInclude Include="SDK\OsirisSDK\ModelInfo.h" />
+    <ClInclude Include="SDK\OsirisSDK\ModelRender.h" />
+    <ClInclude Include="SDK\OsirisSDK\MoveHelper.h" />
+    <ClInclude Include="SDK\OsirisSDK\NetworkChannel.h" />
+    <ClInclude Include="SDK\OsirisSDK\NetworkStringTable.h" />
+    <ClInclude Include="SDK\OsirisSDK\Pad.h" />
+    <ClInclude Include="SDK\OsirisSDK\Panel.h" />
+    <ClInclude Include="SDK\OsirisSDK\PhysicsSurfaceProps.h" />
+    <ClInclude Include="SDK\OsirisSDK\Prediction.h" />
+    <ClInclude Include="SDK\OsirisSDK\Recv.h" />
+    <ClInclude Include="SDK\OsirisSDK\RenderContext.h" />
+    <ClInclude Include="SDK\OsirisSDK\RenderView.h" />
+    <ClInclude Include="SDK\OsirisSDK\Sound.h" />
+    <ClInclude Include="SDK\OsirisSDK\SoundEmitter.h" />
+    <ClInclude Include="SDK\OsirisSDK\SoundInfo.h" />
+    <ClInclude Include="SDK\OsirisSDK\StudioRender.h" />
+    <ClInclude Include="SDK\OsirisSDK\Surface.h" />
+    <ClInclude Include="SDK\OsirisSDK\UserCmd.h" />
+    <ClInclude Include="SDK\OsirisSDK\Utils.h" />
+    <ClInclude Include="SDK\OsirisSDK\UtlVector.h" />
+    <ClInclude Include="SDK\OsirisSDK\VarMapping.h" />
+    <ClInclude Include="SDK\OsirisSDK\Vector.h" />
+    <ClInclude Include="SDK\OsirisSDK\VirtualMethod.h" />
+    <ClInclude Include="SDK\OsirisSDK\WeaponData.h" />
+    <ClInclude Include="SDK\OsirisSDK\WeaponId.h" />
+    <ClInclude Include="SDK\OsirisSDK\WeaponSystem.h" />
+    <ClInclude Include="SDK\SDKAddition\AvatarImage.h" />
+    <ClInclude Include="SDK\SDKAddition\CCapsule.h" />
+    <ClInclude Include="SDK\SDKAddition\CSphere.h" />
+    <ClInclude Include="SDK\SDKAddition\CustomRay.h" />
+    <ClInclude Include="SDK\SDKAddition\EntityListCull.hpp" />
+    <ClInclude Include="SDK\SDKAddition\NavFile.h" />
+    <ClInclude Include="SDK\SDKAddition\PlayerRecords.h" />
+    <ClInclude Include="SDK\SDKAddition\SoundSystem.h" />
+    <ClInclude Include="SDK\SDKAddition\Utils\CapsuleMath.h" />
+    <ClInclude Include="SDK\SDKAddition\Utils\MatrixMath.h" />
+    <ClInclude Include="SDK\SDKAddition\Utils\PanksBigInteger.h" />
+    <ClInclude Include="SDK\SDKAddition\Utils\ScreenMath.h" />
+    <ClInclude Include="SDK\SDKAddition\Utils\VectorMath.h" />
+    <ClInclude Include="SDK\SDK\bitbuf.h" />
+    <ClInclude Include="SDK\SDK\checksum_crc.h" />
+    <ClInclude Include="SDK\SDK\CHudChat.h" />
+    <ClInclude Include="SDK\SDK\ClientModeShared.h" />
+    <ClInclude Include="SDK\SDK\clzss.h" />
+    <ClInclude Include="SDK\SDK\CMatRenderData.h" />
+    <ClInclude Include="SDK\SDK\CNetMessageBinder.h" />
+    <ClInclude Include="SDK\SDK\CViewSetup.h" />
+    <ClInclude Include="SDK\SDK\IceKey.h" />
+    <ClInclude Include="SDK\SDK\IClientRenderable.h" />
+    <ClInclude Include="SDK\SDK\IEffects.h" />
+    <ClInclude Include="SDK\SDK\IFileSystem.h" />
+    <ClInclude Include="SDK\SDK\IMatchFramework.h" />
+    <ClInclude Include="SDK\SDK\INetSupport.h" />
+    <ClInclude Include="SDK\SDK\IPanoramaUIEngine.h" />
+    <ClInclude Include="SDK\SDK\IVDebugOverlay.h" />
+    <ClInclude Include="SDK\SDK\ModelRenderSystem.h" />
+    <ClInclude Include="SDK\SDK\Tier0\basetypes.h" />
+    <ClInclude Include="SDK\SDK\Tier0\bitvec.h" />
+    <ClInclude Include="SDK\SDK\Tier0\byteswap.h" />
+    <ClInclude Include="SDK\SDK\Tier0\datamap.h" />
+    <ClInclude Include="SDK\SDK\Tier0\meh.h" />
+    <ClInclude Include="SDK\SDK\Tier0\memalloc.h" />
+    <ClInclude Include="SDK\SDK\Tier0\utlbuffer.h" />
+    <ClInclude Include="SDK\SDK\Tier0\utldelegate.h" />
+    <ClInclude Include="SDK\SDK\Tier0\utlmemory.h" />
+    <ClInclude Include="SDK\SDK\Tier0\UtlStringMap.h" />
+    <ClInclude Include="SDK\SDK\Tier0\utlsymbol.h" />
+    <ClInclude Include="SDK\SDK\Tier0\utlvector.h" />
+    <ClInclude Include="SDK\SDK\UIEngine.h" />
+    <ClInclude Include="SDK\SDK\ViewRender.h" />
+    <ClInclude Include="SDK\SDK\vphysics_interface.h" />
+    <ClInclude Include="SteamNetHooks.h" />
+    <ClInclude Include="Timing.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ClientHooks.cpp" />
+    <ClCompile Include="Config.cpp" />
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="EngineHooks.cpp" />
+    <ClCompile Include="GameData.cpp" />
+    <ClCompile Include="Hacks\AimAssist.cpp" />
+    <ClCompile Include="Hacks\Aimbot.cpp" />
+    <ClCompile Include="Hacks\AntiAim.cpp" />
+    <ClCompile Include="Hacks\Backtrack.cpp" />
+    <ClCompile Include="Hacks\Chams.cpp" />
+    <ClCompile Include="Hacks\DlightPlayer.cpp" />
+    <ClCompile Include="Hacks\ESP.cpp" />
+    <ClCompile Include="Hacks\Exploits\Crasher.cpp" />
+    <ClCompile Include="Hacks\Exploits\MMEvent.cpp" />
+    <ClCompile Include="Hacks\Glow.cpp" />
+    <ClCompile Include="Hacks\Grief.cpp" />
+    <ClCompile Include="Hacks\LagHack.cpp" />
+    <ClCompile Include="Hacks\Misc.cpp" />
+    <ClCompile Include="Hacks\OTHER\Debug.cpp" />
+    <ClCompile Include="Hacks\OTHER\GOTVConnect.cpp" />
+    <ClCompile Include="Hacks\RageBot\Multipoints.cpp" />
+    <ClCompile Include="Hacks\RageBot\Ragebot.cpp" />
+    <ClCompile Include="Hacks\RageBot\Resolver.cpp" />
+    <ClCompile Include="Hacks\Renderables.cpp" />
+    <ClCompile Include="Hacks\SendNetMSG\SendNetMsg.cpp" />
+    <ClCompile Include="Hacks\SteamWorks\SteamWorks.cpp" />
+    <ClCompile Include="Hacks\TickbaseManager.cpp" />
+    <ClCompile Include="Hacks\Visuals.cpp" />
+    <ClCompile Include="Hacks\Walkbot\Walkbot.cpp" />
+    <ClCompile Include="Hacks\Walkbot\WalkbotAimBot.cpp" />
+    <ClCompile Include="Hacks\Walkbot\WalkbotController.cpp" />
+    <ClCompile Include="Hacks\Walkbot\WalkbotNetworking.cpp" />
+    <ClCompile Include="Hacks\Walkbot\WalkbotSoundDispatchSystem.cpp" />
+    <ClCompile Include="Hacks\Walkbot\WalkbotTargetingSystem.cpp" />
+    <ClCompile Include="Hooks.cpp" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\Detour.cpp" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook.cpp" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\buffer.c" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde32.c" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hde\hde64.c" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\hook.c" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\MinHook\trampoline.c" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\VmtHook.cpp" />
+    <ClCompile Include="Hooks\Antaeus\Hooks\UserMode\VmtSwap.cpp" />
+    <ClCompile Include="Memory.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Netvars.cpp" />
+    <ClCompile Include="OtherHooks.cpp" />
+    <ClCompile Include="Other\Animations.cpp" />
+    <ClCompile Include="Other\AutoQueuer.cpp" />
+    <ClCompile Include="Other\AutoWall.cpp" />
+    <ClCompile Include="Other\AutoWinner.cpp" />
+    <ClCompile Include="Other\ChatConsole.cpp" />
+    <ClCompile Include="Other\CrossCheatTalk.cpp" />
+    <ClCompile Include="Other\EnginePrediction.cpp" />
+    <ClCompile Include="Other\EventListener.cpp" />
+    <ClCompile Include="Other\MessageSender.cpp" />
+    <ClCompile Include="Other\Networking\HarpoonNetworkingSockets.cpp" />
+    <ClCompile Include="Other\SteamNetSocketsMessageHandler.cpp" />
+    <ClCompile Include="Other\SteamSocketsCrossCheatTalk.cpp" />
+    <ClCompile Include="Other\Translator.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Pendelum\D3D9Render.cpp" />
+    <ClCompile Include="Pendelum\Pendelum.cpp" />
+    <ClCompile Include="Pendelum\Pendelum2.cpp" />
+    <ClCompile Include="Pendelum\Renderer.cpp" />
+    <ClCompile Include="PlayerList.cpp" />
+    <ClCompile Include="Resource\MicroPather\micropather.cpp" />
+    <ClCompile Include="Resource\MicroPather\nav_area.cpp" />
+    <ClCompile Include="Resource\MicroPather\nav_buffer.cpp" />
+    <ClCompile Include="Resource\MicroPather\nav_file.cpp" />
+    <ClCompile Include="Resource\MicroPather\nav_hiding_spot.cpp" />
+    <ClCompile Include="Resource\Protobuf\Headers\base_gcmessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\CrossCheatTalkMessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\cstrike15_gcmessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\cstrike15_usermessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\econ_gcmessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\engine_gcmessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\gcsdk_gcmessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\gcsystemmsgs.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\netmessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\steammessages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_certs.pb.cc" />
+    <ClCompile Include="Resource\Protobuf\Headers\steamnetworkingsockets_messages_udp.pb.cc" />
+    <ClCompile Include="Resource\Sounds\Sounds.cpp" />
+    <ClCompile Include="SDK\OsirisSDK\AnimState.cpp" />
+    <ClCompile Include="SDK\OsirisSDK\Entity.cpp" />
+    <ClCompile Include="SDK\OsirisSDK\GlobalVars.cpp" />
+    <ClCompile Include="SDK\OsirisSDK\KeyValues.cpp" />
+    <ClCompile Include="SDK\OsirisSDK\Utils.cpp" />
+    <ClCompile Include="SDK\SDKAddition\AvatarImage.cpp" />
+    <ClCompile Include="SDK\SDKAddition\CSphere.cpp" />
+    <ClCompile Include="SDK\SDKAddition\EntityListCull.cpp" />
+    <ClCompile Include="SDK\SDKAddition\NavFile.cpp" />
+    <ClCompile Include="SDK\SDKAddition\PlayerRecords.cpp" />
+    <ClCompile Include="SDK\SDKAddition\SoundSystem.cpp" />
+    <ClCompile Include="SDK\SDKAddition\Utils\CapsuleMath.cpp" />
+    <ClCompile Include="SDK\SDKAddition\Utils\MatrixMath.cpp" />
+    <ClCompile Include="SDK\SDKAddition\Utils\PanksBigInteger.cpp" />
+    <ClCompile Include="SDK\SDKAddition\Utils\ScreenMath.cpp" />
+    <ClCompile Include="SDK\SDKAddition\Utils\VectorMath.cpp" />
+    <ClCompile Include="SDK\SDK\bitbuf.cpp" />
+    <ClCompile Include="SDK\SDK\checksum_crc.cpp" />
+    <ClCompile Include="SDK\SDK\clzss.cpp" />
+    <ClCompile Include="SDK\SDK\IceKey.cpp" />
+    <ClCompile Include="SDK\SDK\ModelRenderSystem.cpp" />
+    <ClCompile Include="SDK\SDK\Tier0\utldelegate.cpp" />
+    <ClCompile Include="SteamNetHooks.cpp" />
+    <ClCompile Include="Timing.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\SteamWorks\steam\steam_api.json" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

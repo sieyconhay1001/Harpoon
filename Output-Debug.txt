@@ -1,0 +1,2725 @@
+﻿'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo.exe'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\AcGenral.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\samcli.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msacm32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\userenv.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\urlmon.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winspool.drv'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mpr.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\iertutil.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\GameOverlayRenderer.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\launcher.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wsock32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\steam_api.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\tier0.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vstdlib.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\umpdc.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\filesystem_stdio.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\engine.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wininet.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IPHLPAPI.DLL'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\phonon.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\steamnetworkingsockets.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\inputsystem.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vphysics.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\materialsystem.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\datacache.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\studiorender.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\soundemittersystem.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vscript.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\soundsystem.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\valve_avi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\avifil32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvfw32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.488_none_89e6152f0b32762e\comctl32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vguimatsurface.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vgui2.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\panoramauiclient.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\v8.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\video.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\v8_libbase.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\icui18n.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\icuuc.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libavcodec-56.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libavformat-56.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libavresample-2.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libavutil-54.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libswscale-3.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dbghelp.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\panorama.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\cairo.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\parsifal.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\v8_libplatform.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\shaderapidx9.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d9.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\D3DX9_43.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wldp.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\imemanager.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\localize.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\panorama_text_pango.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libfontconfig-1.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libglib-2.0-0.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libgobject-2.0-0.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libfreetype-6.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libpango-1.0-0.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libpangoft2-1.0-0.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\libgmodule-2.0-0.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\usp10.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0346830.inf_amd64_35731e557194973d\B345901\aticfx32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0346830.inf_amd64_35731e557194973d\B345901\atiu9pag.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0346830.inf_amd64_35731e557194973d\B345901\atiumdag.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dbgcore.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0346830.inf_amd64_35731e557194973d\B345901\atiumdva.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamclient.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imagehlp.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\tier0_s.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\vstdlib_s.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mswsock.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\secur32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\crashhandler.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\stdshader_dbg.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\stdshader_dx9.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\MMDevAPI.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wdmaud.drv'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ksuser.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\avrt.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\AudioSes.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msacm32.drv'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\midimap.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\xinput1_3.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\InputHost.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wbem\wbemprox.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wbemcomn.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wbem\wbemsvc.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wbem\fastprox.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\amsi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\NapiNSP.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\pnrpnsp.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wshbth.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nlaapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dnsapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nsi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winrnr.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\FWPUCLNT.DLL'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rasadhlp.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DXCore.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\Windows.UI.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WindowManagementAPI.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\twinapi.appcore.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\bin\matchmaking.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\bin\client.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\bin\server.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\scenefilecache.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shfolder.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vaudio_miles.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\mss32.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\mssmp3.asi'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\mssds3d.flt'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\XAudio2_7.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dsound.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dhcpcsvc.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vaudio_celt.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptsp.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rsaenh.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gpapi.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\serverbrowser.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptnet.dll'. 
+The thread 0x34e50 has exited with code 0 (0x0).
+'csgo.exe' (Win32): Loaded 'C:\Users\user\source\repos\Harpoon\Release\Harpoon.dll'. Symbols loaded.
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140.dll'. 
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140.dll'. 
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Refreshing ping measurements
+RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+Cluster 'atl' no longer has a selection penalty for load balancing purposes.  (As per atl#35 (162.254.199.170:27049)).
+Cluster 'lhr' selection penalty for load balancing purposes changed from 5ms to 6ms.  (As per lhr#36 (162.254.196.82:27030)).
+The thread 0x3505c has exited with code 0 (0x0).
+The thread 0x354ac has exited with code 1173225472 (0x45ee0000).
+Creating Sounds\
+Creating .\Sounds\20Seconds.wav
+Creating .\Sounds\Penal.wav
+Creating .\Sounds\Glawk.wav
+Creating .\Sounds\PS1.wav
+Creating .\Sounds\BTG.wav
+Ok
+Hooks::install clientMode   :: VTable :: Hooking createMove (24)...[Harpoon] QP:  - Initializing Hooks -  [Harpoon]
+Hooks::install bspQuery     :: VTable :: Hooking listLeavesInBox (6)...Ok
+Hooks::install client       :: VTable :: Hooking frameStageNotify (37)...Ok
+Hooks::install client       :: VTable :: Hooking writeUsercmdDeltaToBuffer (24)...Ok
+Hooks::install clientMode   :: VTable :: Hooking overrideView (18)...Ok
+Hooks::install clientMode   :: VTable :: Hooking doPostScreenEffects (44)...Ok
+Hooks::install modelRender  :: VTable :: Hooking drawModelExecute (21)...Ok
+Hooks::install studioRender :: VTable :: Hooking drawModel (29)...Ok
+Hooks::install materialSys  :: VTable :: Hooking findMaterial (84)...Ok
+Hooks::install materialSys  :: VTable :: Hooking reloadMaterials (82)...Ok
+Hooks::install Panel        :: VTable :: Hooking paintTraverse (41)...Ok
+Hooks::install Surface      :: VTable :: Hooking setDrawColor (15)...Ok
+Hooks::install Surface      :: VTable :: Hooking lockCursor (67)...Ok
+Hooks::install SvCheats     :: VTable :: Hooking svCheats (13)...Ok
+Hooks::install fileSystem   :: VTable :: Hooking allowLooseFiles (13)...Ok
+Hooks::install fileSystem   :: VTable :: Hooking canLoadThirdPartyFiles (128)...Ok
+Hooks::install fileSystem   :: VTable :: Hooking getUnveridiedFileHashes (101)...Ok
+Hooks::install engine       :: VTable :: Hooking isHLTV (93)...Ok
+Successfully Created _HOST_RUN_FRAME_INPUT Hook
+Ok
+Hooks::install Engine       :: StaticFunction :: Hooking CL_MOVE...Ok
+Successfully Created CL_MOVE Hook
+Ok
+Hooks::install Client      :: StaticFunction :: Hooking RenderModels...Ok
+Successfully Created ProceduralFootPlant Hook
+Ok
+Successfully Created ShouldSkipAnimationFrame Hook
+Ok
+Successfully Created CheckForSequenceChange Hook
+Ok
+Successfully Created CNetChan_CompressFragments Hook
+Ok
+Successfully Created CNetChan_SendSubChannelData Hook
+Ok
+Successfully Created CNetChan_SendNetMessage Hook
+Ok
+Successfully Created HOST_ERROR Hook
+[Harpoon] QP: 15 [Harpoon]
+[Harpoon] QP: 276 [Harpoon]
+[Harpoon] QP: 576 [Harpoon]
+3b 08 7e 54  -> 90 90 eb 54 
+Enabling All Hooks...Ok
+[Harpoon] QP:  - Hooking Complete -  [Harpoon]
+'csgo.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextShaping.dll'. 
+[Harpoon] QP: Width: 1920 Height: 1080 [Harpoon]
+The thread 0x34588 has exited with code 0 (0x0).
+The thread 0x35694 has exited with code 0 (0x0).
+The thread 0x35698 has exited with code 0 (0x0).
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9101 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x00000016 [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x000000000000008d -115 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 141 [Harpoon]
+[Harpoon] QP: # [Harpoon]
+[Harpoon] QP: size of message = 22 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Refreshing ping measurements
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+[Harpoon] QP: Message In From Steam Game Coordinator = 9104 [Harpoon]
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9193 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x00000008 [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x00000000000000e9 -23 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 233 [Harpoon]
+[Harpoon] QP: é# [Harpoon]
+[Harpoon] QP: size of message = 8 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Ping measurement completed
+SteamNetworkingSockets --- Ping location: iad=11+1,atl=27+2/24+1,ord=29+2,dfw=46+4,lax=66+6,sea=78+7/78+1,eat=81+8/82+2,par=92+9/88+1,lhr=87+14/96+1,fra=100+10/96+1,gru=142+14/155+1,sgp=270+27/251+6
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+Ping measurement complete after 5.0s.  Sending sample to GC
+  ams: 99ms via iad (front=11ms, back=88ms)
+  atl: 24ms via iad (front=11ms, back=13ms)
+  bom: 209ms via direct route
+  can: 229ms via cant (front=229ms, back=0ms)
+  canm: 229ms via cant (front=229ms, back=0ms)
+  cant: 229ms via direct route
+  canu: 229ms via cant (front=229ms, back=0ms)
+  dfw: 46ms via direct route
+  dxb: 217ms via direct route
+  eat: 82ms via ord (front=29ms, back=53ms)
+  eze: 160ms via scl (front=140ms, back=20ms)
+  fra: 96ms via iad (front=11ms, back=85ms)
+  gru: 155ms via iad (front=11ms, back=144ms)
+  hkg: 221ms via lax (front=66ms, back=155ms)
+  iad: 11ms via direct route
+  jnb: 278ms via iad (front=11ms, back=267ms)
+  lax: 66ms via direct route
+  lhr: 96ms via iad (front=11ms, back=85ms)
+  lim: 120ms via direct route
+  maa: 225ms via bom (front=209ms, back=16ms)
+  mad: 107ms via iad (front=11ms, back=96ms)
+  ord: 29ms via direct route
+  par: 88ms via iad (front=11ms, back=77ms)
+  pwg: 240ms via direct route
+  pwj: 239ms via direct route
+  pwu: 264ms via direct route
+  pww: 262ms via direct route
+  pwz: 219ms via direct route
+  scl: 140ms via direct route
+  sea: 78ms via iad (front=11ms, back=67ms)
+  sgp: 251ms via lax (front=66ms, back=185ms)
+  sha: 221ms via shat (front=221ms, back=0ms)
+  sham: 221ms via shat (front=221ms, back=0ms)
+  shat: 221ms via direct route
+  shau: 221ms via shat (front=221ms, back=0ms)
+  shb: 232ms via direct route
+  sof: 124ms via direct route
+  sto: 103ms via direct route
+  sto2: 104ms via sto (front=103ms, back=1ms)
+  syd: 212ms via ord (front=29ms, back=183ms)
+  tsn: 237ms via tsnu (front=237ms, back=0ms)
+  tsnm: 237ms via tsnu (front=237ms, back=0ms)
+  tsnt: 237ms via tsnu (front=237ms, back=0ms)
+  tsnu: 237ms via direct route
+  tyo: 182ms via tyo1 (front=182ms, back=0ms)
+  tyo1: 182ms via direct route
+  vie: 108ms via iad (front=11ms, back=97ms)
+  waw: 113ms via iad (front=11ms, back=102ms)
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9103 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x000001eb [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x000000000000008f -113 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 143 [Harpoon]
+[Harpoon] QP: # [Harpoon]
+[Harpoon] QP: size of message = 491 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Amsterdam (EU West) (ams)(ams)  current ping is : 99 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Atlanta (US East) (atl)(atl)  current ping is : 24 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Bombay (India West) (bom)(bom)  current ping is : 209 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can)(can)  current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : m)(can) current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : t)(can) current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : u)(can) current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (dfw)(dfw)  current ping is : 46 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dubai (Middle-East) (dxb)(dxb)  current ping is : 217 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Moses Lake 1 (US Central) (eat)(eat)  current ping is : 82 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (eze)(eze)  current ping is : 160 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Frankfurt (EU West) (fra)(fra)  current ping is : 96 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sao Paulo 1 (SA East) (gru)(gru)  current ping is : 155 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hong Kong (Asia East) (hkg)(hkg)  current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sterling (US East) (iad)(iad)  current ping is : 11 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Johannesburg, South Africa (ZA) (jnb)(jnb)  current ping is : 278 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Los Angeles (US West) (lax)(lax)  current ping is : 66 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter London (EU North) (lhr)(lhr)  current ping is : 96 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Lima (SA West) (lim)(lim)  current ping is : 120 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chennai (India South-East) (maa)(maa)  current ping is : 225 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Madrid (EU South) (mad)(mad)  current ping is : 107 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chicago (US Central) (ord)(ord)  current ping is : 29 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Paris (EU West) (par)(par)  current ping is : 88 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Guangzhou 4 (Asua East) (pwg)(pwg)  current ping is : 240 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Cangzhou (Asia North-East) (pwj)(pwj)  current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dongcheng Qu (Asia Central) (pwu)(pwu)  current ping is : 264 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hongshan Qu (Asia South-East) (pww)(pww)  current ping is : 262 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Jiaxing, China (CN) (pwz)(pwz)  current ping is : 219 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Santiago (SA South-West) (scl)(scl)  current ping is : 140 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Seattle (US North-West) (sea)(sea)  current ping is : 78 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Singapore (Asia South-East) (sgp)(sgp)  current ping is : 251 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha)(sha)  current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : m)(sha) current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : t)(sha) current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : u)(sha) current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Unknown (shb)(shb)  current ping is : 232 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (sof)(sof)  current ping is : 124 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto)(sto)  current ping is : 103 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto : 2)(sto) current ping is : 104 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sydney (Australia South-East) (syd)(syd)  current ping is : 212 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn)(tsn)  current ping is : 237 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : m)(tsn) current ping is : 237 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : t)(tsn) current ping is : 237 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : u)(tsn) current ping is : 237 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo)(tyo)  current ping is : 182 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo : 1)(tyo) current ping is : 182 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Vienna (EU Central) (vie)(vie)  current ping is : 108 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Warsaw (EU Central) (waw)(waw)  current ping is : 113 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Writing Pings [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Destroying relay 'ams#16 (via sspc-any 143.131.179.65:8190)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'sto#110 (via sspc-any 143.131.179.71:56048)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'lhr#36 (via sspc-any 143.131.179.64:4219)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'fra#328 (via sspc-any 143.131.179.67:65179)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'par#125 (via sspc-any 143.131.179.68:35710)' because alt_ping_complete
+The thread 0x354f0 has exited with code 0 (0x0).
+The thread 0x309e4 has exited with code 0 (0x0).
+The thread 0x21e20 has exited with code 0 (0x0).
+The thread 0x8b6c has exited with code 0 (0x0).
+SteamNetworkingSockets --- Port failure on 103.10.125.154:27051 was 120.1s ago.  Discarding record of failure on that port, might try again.
+SteamNetworkingSockets --- Port failure on 205.196.6.148:27031 was 120.1s ago.  Discarding record of failure on that port, might try again.
+SteamNetworkingSockets --- Port failure on 103.10.125.154:27041 was 120.1s ago.  Discarding record of failure on that port, might try again.
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Refreshing ping measurements
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+[Harpoon] QP: Message In From Steam Game Coordinator = 9104 [Harpoon]
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9193 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x00000008 [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x00000000000000e9 -23 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 233 [Harpoon]
+[Harpoon] QP: é# [Harpoon]
+[Harpoon] QP: size of message = 8 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Ping measurement completed
+SteamNetworkingSockets --- Ping location: iad=11+1,atl=28+2/24+1,ord=30+3,dfw=42+4,lax=69+6,sea=77+7/79+1,eat=82+8/85+1,par=95+9/88+1,lhr=89+14/96+1,fra=103+10/97+1,gru=142+14/155+1,sgp=269+26/254+6
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+Ping measurement complete after 5.0s.  Sending sample to GC
+  ams: 99ms via iad (front=11ms, back=88ms)
+  atl: 24ms via iad (front=11ms, back=13ms)
+  bom: 209ms via direct route
+  can: 229ms via cant (front=229ms, back=0ms)
+  canm: 229ms via cant (front=229ms, back=0ms)
+  cant: 229ms via direct route
+  canu: 229ms via cant (front=229ms, back=0ms)
+  dfw: 42ms via direct route
+  dxb: 220ms via direct route
+  eat: 85ms via iad (front=11ms, back=74ms)
+  eze: 161ms via scl (front=141ms, back=20ms)
+  fra: 97ms via iad (front=11ms, back=86ms)
+  gru: 155ms via iad (front=11ms, back=144ms)
+  hkg: 224ms via lax (front=69ms, back=155ms)
+  iad: 11ms via direct route
+  jnb: 280ms via iad (front=11ms, back=269ms)
+  lax: 69ms via direct route
+  lhr: 96ms via iad (front=11ms, back=85ms)
+  lim: 123ms via direct route
+  maa: 225ms via bom (front=209ms, back=16ms)
+  mad: 106ms via iad (front=11ms, back=95ms)
+  ord: 30ms via direct route
+  par: 88ms via iad (front=11ms, back=77ms)
+  pwg: 240ms via direct route
+  pwj: 241ms via direct route
+  pwu: 264ms via direct route
+  pww: 262ms via direct route
+  pwz: 220ms via direct route
+  scl: 141ms via direct route
+  sea: 79ms via iad (front=11ms, back=68ms)
+  sgp: 254ms via lax (front=69ms, back=185ms)
+  sha: 221ms via shat (front=221ms, back=0ms)
+  sham: 221ms via shat (front=221ms, back=0ms)
+  shat: 221ms via direct route
+  shau: 221ms via shat (front=221ms, back=0ms)
+  shb: 232ms via direct route
+  sof: 126ms via direct route
+  sto: 107ms via direct route
+  sto2: 116ms via iad (front=11ms, back=105ms)
+  syd: 210ms via ord (front=30ms, back=180ms)
+  tsn: 240ms via tsnu (front=240ms, back=0ms)
+  tsnm: 240ms via tsnu (front=240ms, back=0ms)
+  tsnt: 240ms via tsnu (front=240ms, back=0ms)
+  tsnu: 240ms via direct route
+  tyo: 180ms via tyo1 (front=180ms, back=0ms)
+  tyo1: 180ms via direct route
+  vie: 108ms via iad (front=11ms, back=97ms)
+  waw: 113ms via iad (front=11ms, back=102ms)
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9103 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x000001eb [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x000000000000008f -113 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 143 [Harpoon]
+[Harpoon] QP: # [Harpoon]
+[Harpoon] QP: size of message = 491 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Amsterdam (EU West) (ams)(ams)  current ping is : 99 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Atlanta (US East) (atl)(atl)  current ping is : 24 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Bombay (India West) (bom)(bom)  current ping is : 209 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can)(can)  current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : m)(can) current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : t)(can) current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : u)(can) current ping is : 229 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (dfw)(dfw)  current ping is : 42 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dubai (Middle-East) (dxb)(dxb)  current ping is : 220 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Moses Lake 1 (US Central) (eat)(eat)  current ping is : 85 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (eze)(eze)  current ping is : 161 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Frankfurt (EU West) (fra)(fra)  current ping is : 97 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sao Paulo 1 (SA East) (gru)(gru)  current ping is : 155 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hong Kong (Asia East) (hkg)(hkg)  current ping is : 224 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sterling (US East) (iad)(iad)  current ping is : 11 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Johannesburg, South Africa (ZA) (jnb)(jnb)  current ping is : 280 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Los Angeles (US West) (lax)(lax)  current ping is : 69 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter London (EU North) (lhr)(lhr)  current ping is : 96 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Lima (SA West) (lim)(lim)  current ping is : 123 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chennai (India South-East) (maa)(maa)  current ping is : 225 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Madrid (EU South) (mad)(mad)  current ping is : 106 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chicago (US Central) (ord)(ord)  current ping is : 30 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Paris (EU West) (par)(par)  current ping is : 88 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Guangzhou 4 (Asua East) (pwg)(pwg)  current ping is : 240 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Cangzhou (Asia North-East) (pwj)(pwj)  current ping is : 241 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dongcheng Qu (Asia Central) (pwu)(pwu)  current ping is : 264 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hongshan Qu (Asia South-East) (pww)(pww)  current ping is : 262 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Jiaxing, China (CN) (pwz)(pwz)  current ping is : 220 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Santiago (SA South-West) (scl)(scl)  current ping is : 141 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Seattle (US North-West) (sea)(sea)  current ping is : 79 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Singapore (Asia South-East) (sgp)(sgp)  current ping is : 254 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha)(sha)  current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : m)(sha) current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : t)(sha) current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : u)(sha) current ping is : 221 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Unknown (shb)(shb)  current ping is : 232 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (sof)(sof)  current ping is : 126 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto)(sto)  current ping is : 107 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto : 2)(sto) current ping is : 116 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sydney (Australia South-East) (syd)(syd)  current ping is : 210 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn)(tsn)  current ping is : 240 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : m)(tsn) current ping is : 240 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : t)(tsn) current ping is : 240 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : u)(tsn) current ping is : 240 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo)(tyo)  current ping is : 180 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo : 1)(tyo) current ping is : 180 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Vienna (EU Central) (vie)(vie)  current ping is : 108 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Warsaw (EU Central) (waw)(waw)  current ping is : 113 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Writing Pings [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Destroying relay 'fra#328 (via sspc-any 143.131.179.67:65179)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'par#125 (via sspc-any 143.131.179.68:35710)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'sto#110 (via sspc-any 143.131.179.71:56048)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'ams#16 (via sspc-any 143.131.179.65:8190)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'lhr#36 (via sspc-any 143.131.179.64:4219)' because alt_ping_complete
+The thread 0x34760 has exited with code 0 (0x0).
+The thread 0x33664 has exited with code 0 (0x0).
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Refreshing ping measurements
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+[Harpoon] QP: Message In From Steam Game Coordinator = 9104 [Harpoon]
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9193 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x00000008 [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x00000000000000e9 -23 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 233 [Harpoon]
+[Harpoon] QP: é# [Harpoon]
+[Harpoon] QP: size of message = 8 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Ping measurement completed
+SteamNetworkingSockets --- Ping location: iad=13+1,atl=26+2/26+1,ord=29+2,dfw=45+4,lax=70+7/75+2,sea=79+7/80+1,eat=82+8/83+2,par=92+9/90+1,lhr=87+14/98+1,fra=102+10/98+1,gru=140+14,sgp=267+26/255+7
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+Ping measurement complete after 4.9s.  Sending sample to GC
+  ams: 101ms via iad (front=13ms, back=88ms)
+  atl: 26ms via iad (front=13ms, back=13ms)
+  bom: 209ms via direct route
+  can: 228ms via cant (front=228ms, back=0ms)
+  canm: 228ms via cant (front=228ms, back=0ms)
+  cant: 228ms via direct route
+  canu: 228ms via cant (front=228ms, back=0ms)
+  dfw: 45ms via direct route
+  dxb: 220ms via direct route
+  eat: 83ms via ord (front=29ms, back=54ms)
+  eze: 161ms via scl (front=141ms, back=20ms)
+  fra: 98ms via iad (front=13ms, back=85ms)
+  gru: 140ms via direct route
+  hkg: 225ms via lax (front=70ms, back=155ms)
+  iad: 13ms via direct route
+  jnb: 281ms via iad (front=13ms, back=268ms)
+  lax: 75ms via ord (front=29ms, back=46ms)
+  lhr: 98ms via iad (front=13ms, back=85ms)
+  lim: 122ms via direct route
+  maa: 225ms via bom (front=209ms, back=16ms)
+  mad: 108ms via iad (front=13ms, back=95ms)
+  ord: 29ms via direct route
+  par: 90ms via iad (front=13ms, back=77ms)
+  pwg: 239ms via direct route
+  pwj: 238ms via direct route
+  pwu: 263ms via direct route
+  pww: 260ms via direct route
+  pwz: 218ms via direct route
+  scl: 141ms via direct route
+  sea: 80ms via iad (front=13ms, back=67ms)
+  sgp: 255ms via lax (front=70ms, back=185ms)
+  sha: 218ms via shat (front=218ms, back=0ms)
+  sham: 218ms via shat (front=218ms, back=0ms)
+  shat: 218ms via direct route
+  shau: 218ms via shat (front=218ms, back=0ms)
+  shb: 230ms via direct route
+  sof: 124ms via direct route
+  sto: 103ms via direct route
+  sto2: 104ms via sto (front=103ms, back=1ms)
+  syd: 211ms via ord (front=29ms, back=182ms)
+  tsn: 239ms via tsnu (front=239ms, back=0ms)
+  tsnm: 239ms via tsnu (front=239ms, back=0ms)
+  tsnt: 239ms via tsnu (front=239ms, back=0ms)
+  tsnu: 239ms via direct route
+  tyo: 179ms via tyo1 (front=179ms, back=0ms)
+  tyo1: 179ms via direct route
+  vie: 110ms via iad (front=13ms, back=97ms)
+  waw: 115ms via iad (front=13ms, back=102ms)
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9103 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x000001eb [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x000000000000008f -113 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 143 [Harpoon]
+[Harpoon] QP: # [Harpoon]
+[Harpoon] QP: size of message = 491 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Amsterdam (EU West) (ams)(ams)  current ping is : 101 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Atlanta (US East) (atl)(atl)  current ping is : 26 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Bombay (India West) (bom)(bom)  current ping is : 209 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can)(can)  current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : m)(can) current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : t)(can) current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : u)(can) current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (dfw)(dfw)  current ping is : 45 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dubai (Middle-East) (dxb)(dxb)  current ping is : 220 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Moses Lake 1 (US Central) (eat)(eat)  current ping is : 83 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (eze)(eze)  current ping is : 161 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Frankfurt (EU West) (fra)(fra)  current ping is : 98 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sao Paulo 1 (SA East) (gru)(gru)  current ping is : 140 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hong Kong (Asia East) (hkg)(hkg)  current ping is : 225 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sterling (US East) (iad)(iad)  current ping is : 13 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Johannesburg, South Africa (ZA) (jnb)(jnb)  current ping is : 281 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Los Angeles (US West) (lax)(lax)  current ping is : 75 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter London (EU North) (lhr)(lhr)  current ping is : 98 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Lima (SA West) (lim)(lim)  current ping is : 122 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chennai (India South-East) (maa)(maa)  current ping is : 225 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Madrid (EU South) (mad)(mad)  current ping is : 108 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chicago (US Central) (ord)(ord)  current ping is : 29 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Paris (EU West) (par)(par)  current ping is : 90 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Guangzhou 4 (Asua East) (pwg)(pwg)  current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Cangzhou (Asia North-East) (pwj)(pwj)  current ping is : 238 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dongcheng Qu (Asia Central) (pwu)(pwu)  current ping is : 263 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hongshan Qu (Asia South-East) (pww)(pww)  current ping is : 260 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Jiaxing, China (CN) (pwz)(pwz)  current ping is : 218 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Santiago (SA South-West) (scl)(scl)  current ping is : 141 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Seattle (US North-West) (sea)(sea)  current ping is : 80 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Singapore (Asia South-East) (sgp)(sgp)  current ping is : 255 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha)(sha)  current ping is : 218 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : m)(sha) current ping is : 218 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : t)(sha) current ping is : 218 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : u)(sha) current ping is : 218 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Unknown (shb)(shb)  current ping is : 230 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (sof)(sof)  current ping is : 124 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto)(sto)  current ping is : 103 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto : 2)(sto) current ping is : 104 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sydney (Australia South-East) (syd)(syd)  current ping is : 211 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn)(tsn)  current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : m)(tsn) current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : t)(tsn) current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : u)(tsn) current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo)(tyo)  current ping is : 179 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo : 1)(tyo) current ping is : 179 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Vienna (EU Central) (vie)(vie)  current ping is : 110 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Warsaw (EU Central) (waw)(waw)  current ping is : 115 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Writing Pings [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 9107 [Harpoon]
+SteamNetworkingSockets --- Discarding oldest SDR ticket for server steamid:90143520123343881.  Expiry=1614480165
+SteamNetworkingSockets --- Adding SDR ticket for server steamid:90143522458439690 vport 0 to cache.  Expiry=1614483690
+SteamNetworkingSockets --- Received Steam datagram ticket for server steamid:90143522458439690 vport 0. match_id=3467030938590904419
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Our cert expires in 166626 seconds.
+Started tracking Steam Net Connection to =[A:1:1525682186:16654]:0, handle e5a2455f
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Requesting session from iad#183 (162.254.192.83:27029).  Ping = 13+102=115 (front+back=total).
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramGameserverSessionRequest (0x05):
+	ticket: "\021\212\206\342G\323\030U\375\032\246\001\r\352\020;`\021\014\020\247F\001\000\020\001\035\000\000\000\000!\n\020\360Z\016A@\001)Ou9\241Ad\000\0008\332\005B\023\n\010match_id)c\000\000\000E^\0350Mwaw\000P\000ZHwaw\000\002Z\203_\322WT\225\222:\354<\350\260~\36410\021W\247\034-\306\031l\277\232L\0235\300\344|\377\r>\224\266Q\367 \014\227h\026\347\332!\346Y\026-/m*\025\345\317\231@\031\256J\324\rPwb\n\201\001\014\020\247F\001\000\020\001j\n\201\001\n\020\360Z\016A@\001\"@\316\255\017\3666\202\270\367\223\351r\242?)\300}3\0067\3324\236+\374\023\225\331\353M\216Eg\353\210\233\374\310\245S\321c,\035\\\267\332\356\272V\004c\377Y\036\362\274\017\266a\361\374\225?\005"
+	challenge_time: 1614462085
+	challenge: 768492030171091270
+	client_connection_id: 3852617055
+	network_config_version: 304
+	protocol_version: 9
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Requesting session from par#125 (185.25.182.68:27031).  Ping = 92+25=117 (front+back=total).
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramGameserverSessionRequest (0x05):
+	ticket: "\021\212\206\342G\323\030U\375\032\246\001\r\352\020;`\021\014\020\247F\001\000\020\001\035\000\000\000\000!\n\020\360Z\016A@\001)Ou9\241Ad\000\0008\332\005B\023\n\010match_id)c\000\000\000E^\0350Mwaw\000P\000ZHwaw\000\002Z\203_\322WT\225\222:\354<\350\260~\36410\021W\247\034-\306\031l\277\232L\0235\300\344|\377\r>\224\266Q\367 \014\227h\026\347\332!\346Y\026-/m*\025\345\317\231@\031\256J\324\rPwb\n\201\001\014\020\247F\001\000\020\001j\n\201\001\n\020\360Z\016A@\001\"@\316\255\017\3666\202\270\367\223\351r\242?)\300}3\0067\3324\236+\374\023\225\331\353M\216Eg\353\210\233\374\310\245S\321c,\035\\\267\332\356\272V\004c\377Y\036\362\274\017\266a\361\374\225?\005"
+	challenge_time: 1614462086
+	challenge: 12875142525503248055
+	client_connection_id: 3852617055
+	network_config_version: 304
+	protocol_version: 9
+steamid:90143522458439690[Harpoon] ----- WARNING Couldn't Deduce Networking ID Type.... WARNING ------ [Harpoon]
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramGameserverSessionEstablished (0x06):
+	connection_id: 3852617055
+	gameserver_identity_string: "steamid:90143522458439690"
+	legacy_gameserver_steamid: 90143522458439690
+	seq_num_r2c: 1
+SteamNetworkingSockets --- Received GameserverSessionEstablished from iad#183 (162.254.192.83:27029) for connection ID 3852617055
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Selecting iad#183 (162.254.192.83:27029) as primary.  (Ping = 13+102=115 (front+back=total).)
+SteamNetworkingSockets --- Sending ConnectRequest for ConnectionID 3852617055 to steamid:90143522458439690 via primary relay iad#183 (162.254.192.83:27029).
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectRequest (0x12):
+	connection_id: 3852617055
+	legacy_client_steam_id: 76561199145619468
+	my_timestamp: 3000187041191
+	ping_est_ms: 115
+	crypt {
+	  info: "\010\001\022 B\353\307\007\372\tOJ\301;\323\3117\364\'\227\231\363\025p\227\364h_Z\303cBKbOR\031\254\311\353\234\205G+\342 \t(\002"
+	  signature: "EV\223\341r\247\217\301\371\315\240U\243}K\242\214i4\257\372{\"~~\256R1w\345\347\327MY\"\026\274 \001\324\0306\017\325\245\352\250\002Q{\365\214\022I$\373$\242U\236\033\214W\016"
+	}
+	cert {
+	  cert: "\010\001\022 \372\235g\365-.\255\250\nv\371\275\214\027F\345\254\031}\204\273\272\355)k6j*\207\035\364\307!\014\020\247F\001\000\020\001El\244:`MlG=`P\332\005Z\n\201\001\014\020\247F\001\000\020\001b\031steamid:76561199145619468"
+	  ca_key_id: 18220590129359924542
+	  ca_signature: "(n}\243\273V\272\004w\016\251\001Uc`\025D\337\256\335\030\215\202T\017\221_\'LsW\244k\025\326\226\276r\372e\226\234\220\254\221~3Fb\374\2325\235@H\323\307z\336\2446\214\212\003"
+	}
+	virtual_port: 0
+steamid:90143522458439690[Harpoon] ----- WARNING Couldn't Deduce Networking ID Type.... WARNING ------ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramGameserverSessionEstablished (0x06):
+	connection_id: 3852617055
+	gameserver_identity_string: "steamid:90143522458439690"
+	legacy_gameserver_steamid: 90143522458439690
+	seq_num_r2c: 1
+SteamNetworkingSockets --- Received GameserverSessionEstablished from par#125 (185.25.182.68:27031) for connection ID 3852617055
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Selecting par#125 (185.25.182.68:27031) as backup #1 (Ping = 92+25=117 (front+back=total).)
+SteamNetworkingSockets --- Sending ConnectRequest for ConnectionID 3852617055 to steamid:90143522458439690 via primary relay iad#183 (162.254.192.83:27029).
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectRequest (0x12):
+	connection_id: 3852617055
+	legacy_client_steam_id: 76561199145619468
+	my_timestamp: 3000187541346
+	ping_est_ms: 115
+	crypt {
+	  info: "\010\001\022 B\353\307\007\372\tOJ\301;\323\3117\364\'\227\231\363\025p\227\364h_Z\303cBKbOR\031\254\311\353\234\205G+\342 \t(\002"
+	  signature: "EV\223\341r\247\217\301\371\315\240U\243}K\242\214i4\257\372{\"~~\256R1w\345\347\327MY\"\026\274 \001\324\0306\017\325\245\352\250\002Q{\365\214\022I$\373$\242U\236\033\214W\016"
+	}
+	cert {
+	  cert: "\010\001\022 \372\235g\365-.\255\250\nv\371\275\214\027F\345\254\031}\204\273\272\355)k6j*\207\035\364\307!\014\020\247F\001\000\020\001El\244:`MlG=`P\332\005Z\n\201\001\014\020\247F\001\000\020\001b\031steamid:76561199145619468"
+	  ca_key_id: 18220590129359924542
+	  ca_signature: "(n}\243\273V\272\004w\016\251\001Uc`\025D\337\256\335\030\215\202T\017\221_\'LsW\244k\025\326\226\276r\372e\226\234\220\254\221~3Fb\374\2325\235@H\323\307z\336\2446\214\212\003"
+	}
+	virtual_port: 0
+SteamNetworkingSockets --- Sending ConnectRequest for ConnectionID 3852617055 to steamid:90143522458439690 via primary relay iad#183 (162.254.192.83:27029).
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectRequest (0x12):
+	connection_id: 3852617055
+	legacy_client_steam_id: 76561199145619468
+	my_timestamp: 3000188042298
+	ping_est_ms: 115
+	crypt {
+	  info: "\010\001\022 B\353\307\007\372\tOJ\301;\323\3117\364\'\227\231\363\025p\227\364h_Z\303cBKbOR\031\254\311\353\234\205G+\342 \t(\002"
+	  signature: "EV\223\341r\247\217\301\371\315\240U\243}K\242\214i4\257\372{\"~~\256R1w\345\347\327MY\"\026\274 \001\324\0306\017\325\245\352\250\002Q{\365\214\022I$\373$\242U\236\033\214W\016"
+	}
+	cert {
+	  cert: "\010\001\022 \372\235g\365-.\255\250\nv\371\275\214\027F\345\254\031}\204\273\272\355)k6j*\207\035\364\307!\014\020\247F\001\000\020\001El\244:`MlG=`P\332\005Z\n\201\001\014\020\247F\001\000\020\001b\031steamid:76561199145619468"
+	  ca_key_id: 18220590129359924542
+	  ca_signature: "(n}\243\273V\272\004w\016\251\001Uc`\025D\337\256\335\030\215\202T\017\221_\'LsW\244k\025\326\226\276r\372e\226\234\220\254\221~3Fb\374\2325\235@H\323\307z\336\2446\214\212\003"
+	}
+	virtual_port: 0
+SteamNetworkingSockets --- Sending ConnectRequest for ConnectionID 3852617055 to steamid:90143522458439690 via primary relay iad#183 (162.254.192.83:27029).
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectRequest (0x12):
+	connection_id: 3852617055
+	legacy_client_steam_id: 76561199145619468
+	my_timestamp: 3000188542757
+	ping_est_ms: 115
+	crypt {
+	  info: "\010\001\022 B\353\307\007\372\tOJ\301;\323\3117\364\'\227\231\363\025p\227\364h_Z\303cBKbOR\031\254\311\353\234\205G+\342 \t(\002"
+	  signature: "EV\223\341r\247\217\301\371\315\240U\243}K\242\214i4\257\372{\"~~\256R1w\345\347\327MY\"\026\274 \001\324\0306\017\325\245\352\250\002Q{\365\214\022I$\373$\242U\236\033\214W\016"
+	}
+	cert {
+	  cert: "\010\001\022 \372\235g\365-.\255\250\nv\371\275\214\027F\345\254\031}\204\273\272\355)k6j*\207\035\364\307!\014\020\247F\001\000\020\001El\244:`MlG=`P\332\005Z\n\201\001\014\020\247F\001\000\020\001b\031steamid:76561199145619468"
+	  ca_key_id: 18220590129359924542
+	  ca_signature: "(n}\243\273V\272\004w\016\251\001Uc`\025D\337\256\335\030\215\202T\017\221_\'LsW\244k\025\326\226\276r\372e\226\234\220\254\221~3Fb\374\2325\235@H\323\307z\336\2446\214\212\003"
+	}
+	virtual_port: 0
+SteamNetworkingSockets --- Sending ConnectRequest for ConnectionID 3852617055 to steamid:90143522458439690 via primary relay iad#183 (162.254.192.83:27029).
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectRequest (0x12):
+	connection_id: 3852617055
+	legacy_client_steam_id: 76561199145619468
+	my_timestamp: 3000189043201
+	ping_est_ms: 115
+	crypt {
+	  info: "\010\001\022 B\353\307\007\372\tOJ\301;\323\3117\364\'\227\231\363\025p\227\364h_Z\303cBKbOR\031\254\311\353\234\205G+\342 \t(\002"
+	  signature: "EV\223\341r\247\217\301\371\315\240U\243}K\242\214i4\257\372{\"~~\256R1w\345\347\327MY\"\026\274 \001\324\0306\017\325\245\352\250\002Q{\365\214\022I$\373$\242U\236\033\214W\016"
+	}
+	cert {
+	  cert: "\010\001\022 \372\235g\365-.\255\250\nv\371\275\214\027F\345\254\031}\204\273\272\355)k6j*\207\035\364\307!\014\020\247F\001\000\020\001El\244:`MlG=`P\332\005Z\n\201\001\014\020\247F\001\000\020\001b\031steamid:76561199145619468"
+	  ca_key_id: 18220590129359924542
+	  ca_signature: "(n}\243\273V\272\004w\016\251\001Uc`\025D\337\256\335\030\215\202T\017\221_\'LsW\244k\025\326\226\276r\372e\226\234\220\254\221~3Fb\374\2325\235@H\323\307z\336\2446\214\212\003"
+	}
+	virtual_port: 0
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectOK (0x13):
+	client_connection_id: 3852617055
+	your_timestamp: 3000189043201
+	delay_time_usec: 125499
+	crypt {
+	  info: "\010\001\022 \371\020\016\320\217[\204\377\371?\360}\267~\305*o\024\362n\361\310\256\306\254T\007S\247\210\3317\031\203Vr\243\340\214FQ \t(\002"
+	  signature: "\364|o=\223\'\024Jq\317\253\243=_\314\212+\252J\2210\032d\247z\241mr\272\274C?\2158\277\300\'\267\263\201\332\025\232\033~\362T/yo\334\373\027V\021}\247y\310\204#\356\272\016"
+	}
+	cert {
+	  cert: "\010\001\022 $c\335D\035\004\341X\211#/\261\354\326\312\3626\350\217\346\000\211\370\241\204\2476\007E\302\030\204-waw\000E{\006\200]M{mBa"
+	  ca_key_id: 18220590129359924542
+	  ca_signature: "\327\316Xf\2337\375\2378\347\343\r+\026b\336|*\326\335\255OH\363\325\003\301\377\2306\370\235#<\255\033\246B\312A\351\336HN\327\263\326\233\276\004\324\257\333\324};\0232206CA603\252\372\016\013"
+	}
+	server_connection_id: 4291338090
+SteamNetworkingSockets --- Received ConnectOK for ConnectionID 3852617055 to steamid:90143522458439690.
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] connected
+SteamNetworkingSockets --- Destroying relay 'ams#16 (via sspc-any 143.131.179.65:8190)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'sto#110 (via sspc-any 143.131.179.71:56048)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'par#125 (via sspc-any 143.131.179.68:35710)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'fra#328 (via sspc-any 143.131.179.67:65179)' because alt_ping_complete
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- Destroying relay 'lhr#36 (via sspc-any 143.131.179.64:4219)' because alt_ping_complete
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 134987
+	flags: 0
+	client_connection_id: 3852617055
+	seq_num_c2r: 3
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via primary iad#183 (162.254.192.83:27029): ack_relay
+The thread 0x2c124 has exited with code 0 (0x0).
+The thread 0x35be0 has exited with code 0 (0x0).
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 2
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 134991
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 2
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_e2e
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_e2e ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9193 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x00000008 [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x00000000000000e9 -23 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 233 [Harpoon]
+[Harpoon] QP: é# [Harpoon]
+[Harpoon] QP: size of message = 8 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 9110 [Harpoon]
+SteamNetworkingSockets --- Refreshing ping measurements
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+[Harpoon] QP: Message In From Steam Game Coordinator = 9104 [Harpoon]
+[Harpoon] QP: Message In From Steam Game Coordinator = 9110 [Harpoon]
+PNG load error Interlace handling should be turned on when using png_read_image
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- Cluster 'lhr' selection penalty for load balancing purposes changed from 6ms to 5ms.  (As per lhr#36 (162.254.196.82:27030)).
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 3
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 3
+	ack_relay: 196608
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): ack_relay
+ChangeGameUIState: CSGO_GAME_UI_STATE_MAINMENU -> CSGO_GAME_UI_STATE_MAINMENU
+SignalXWriteOpportunity(4)
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9102 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x00000008 [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x000000000000008e -114 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 142 [Harpoon]
+[Harpoon] QP: Ž# [Harpoon]
+[Harpoon] QP: size of message = 8 [Harpoon]
+**** Unable to localize '#matchdraft_phase_action_wait' on panel 'id-map-draft-phase-wait'
+**** Unable to localize '#DemoPlayback_Restart' on panel descendant of 'HudDemoPlayback'
+**** Unable to localize '#DemoPlayback_Back' on panel descendant of 'HudDemoPlayback'
+**** Unable to localize '#DemoPlayback_Pause' on panel descendant of 'HudDemoPlayback'
+**** Unable to localize '#DemoPlayback_Slow' on panel descendant of 'HudDemoPlayback'
+**** Unable to localize '#DemoPlayback_Play' on panel descendant of 'HudDemoPlayback'
+**** Unable to localize '#DemoPlayback_Fast' on panel descendant of 'HudDemoPlayback'
+**** Unable to localize '#DemoPlayback_Next' on panel descendant of 'HudDemoPlayback'
+**** Unable to localize '#Panorama_CSGO_Spray_Cursor_Hint' on panel 'RosettaInfoText'
+ChangeGameUIState: CSGO_GAME_UI_STATE_MAINMENU -> CSGO_GAME_UI_STATE_LOADINGSCREEN
+The thread 0x3582c has exited with code 0 (0x0).
+The thread 0x3594c has exited with code 0 (0x0).
+Connecting to public(=[A:1:1525682186:16654]:0) ...
+Server using 'public' lobbies, requiring pw no, lobby id ffffffffffffffff
+Associating NetChan CLIENT (=[A:1:1525682186:16654]:0) with Steam Net Connection handle e5a2455f
+[Harpoon] QP: convars {
+  cvars {
+    value: "1185353740"
+    dictionary_name: 1
+  }
+  cvars {
+    value: "1"
+    dictionary_name: 3
+  }
+  cvars {
+    value: "0"
+    dictionary_name: 4
+  }
+  cvars {
+    value: "0"
+    dictionary_name: 5
+  }
+  cvars {
+    value: "Enron"
+    dictionary_name: 6
+  }
+  cvars {
+    value: "2"
+    dictionary_name: 7
+  }
+  cvars {
+    value: "1"
+    dictionary_name: 8
+  }
+  cvars {
+    value: "64"
+    dictionary_name: 9
+  }
+  cvars {
+    value: "$ff00010d5aedf7c5"
+    dictionary_name: 10
+  }
+  cvars {
+    value: "0"
+    dictionary_name: 29
+  }
+  cvars {
+    value: "0"
+    dictionary_name: 11
+  }
+  cvars {
+    value: "1"
+    dictionary_name: 12
+  }
+  cvars {
+    value: "0"
+    dictionary_name: 13
+  }
+  cvars {
+    value: "64"
+    dictionary_name: 14
+  }
+  cvars {
+    value: "1200"
+    dictionary_name: 15
+  }
+  cvars {
+    value: "1"
+    dictionary_name: 16
+  }
+  cvars {
+    value: "1"
+    dictionary_name: 17
+  }
+  cvars {
+    value: "1"
+    dictionary_name: 18
+  }
+  cvars {
+    name: "cl_parachute_autodeploy"
+    value: "1"
+  }
+  cvars {
+    value: "0.031"
+    dictionary_name: 19
+  }
+  cvars {
+    value: "1"
+    dictionary_name: 20
+  }
+  cvars {
+    value: "4"
+    dictionary_name: 21
+  }
+}
+ [Harpoon]
+[Harpoon] QP: signon_state: 2
+spawn_count: 4294967295
+num_server_players: 0
+ [Harpoon]
+[Harpoon] QP: NET_SignonState in SendNetMessage 
+signon_state       = 2
+spawn_count        = -1
+num_server_players = 0
+ [Harpoon]
+Connected to =[A:1:1525682186:16654]:0
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 14
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 31
+	ack_relay: 917504
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+Ping measurement has been active for 5.0s.  Sending what we have to GC
+  ams: 102ms via iad (front=14ms, back=88ms)
+  atl: 27ms via iad (front=14ms, back=13ms)
+  bom: 209ms via direct route
+  can: 228ms via cant (front=228ms, back=0ms)
+  canm: 228ms via cant (front=228ms, back=0ms)
+  cant: 228ms via direct route
+  canu: 228ms via cant (front=228ms, back=0ms)
+  dfw: 46ms via direct route
+  dxb: 222ms via direct route
+  eat: 83ms via ord (front=28ms, back=55ms)
+  eze: 161ms via scl (front=141ms, back=20ms)
+  fra: 99ms via iad (front=14ms, back=85ms)
+  gru: 141ms via direct route
+  hkg: 226ms via lax (front=71ms, back=155ms)
+  iad: 14ms via direct route
+  jnb: 282ms via iad (front=14ms, back=268ms)
+  lax: 74ms via ord (front=28ms, back=46ms)
+  lhr: 87ms via direct route
+  lim: 120ms via direct route
+  maa: 225ms via bom (front=209ms, back=16ms)
+  mad: 109ms via iad (front=14ms, back=95ms)
+  ord: 28ms via direct route
+  par: 91ms via iad (front=14ms, back=77ms)
+  pwg: 241ms via direct route
+  pwj: 238ms via direct route
+  pwu: 261ms via direct route
+  pww: 260ms via direct route
+  pwz: 219ms via direct route
+  scl: 141ms via direct route
+  sea: 79ms via ord (front=28ms, back=51ms)
+  sgp: 256ms via lax (front=71ms, back=185ms)
+  sha: 219ms via shat (front=219ms, back=0ms)
+  sham: 219ms via shat (front=219ms, back=0ms)
+  shat: 219ms via direct route
+  shau: 219ms via shat (front=219ms, back=0ms)
+  shb: 232ms via direct route
+  sof: 123ms via direct route
+  sto: 104ms via direct route
+  sto2: 105ms via sto (front=104ms, back=1ms)
+  syd: 211ms via ord (front=28ms, back=183ms)
+  tsn: 239ms via tsnu (front=239ms, back=0ms)
+  tsnm: 239ms via tsnu (front=239ms, back=0ms)
+  tsnt: 239ms via tsnu (front=239ms, back=0ms)
+  tsnu: 239ms via direct route
+  tyo: 181ms via tyo1 (front=181ms, back=0ms)
+  tyo1: 181ms via direct route
+  vie: 111ms via iad (front=14ms, back=97ms)
+  waw: 116ms via iad (front=14ms, back=102ms)
+[Harpoon] QP: Message Out To Steam Game Coordinator = 9103 [Harpoon]
+[Harpoon] QP: Hex of cubData = 0x000001eb [Harpoon]
+[Harpoon] QP: Pub Data Header = 0x000000000000008f -113 35 0 -128 0 0 0 0  [Harpoon]
+[Harpoon] QP: 143 [Harpoon]
+[Harpoon] QP: # [Harpoon]
+[Harpoon] QP: size of message = 491 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Amsterdam (EU West) (ams)(ams)  current ping is : 102 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Atlanta (US East) (atl)(atl)  current ping is : 27 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Bombay (India West) (bom)(bom)  current ping is : 209 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can)(can)  current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : m)(can) current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : t)(can) current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Qingcheng (Asia East) (can : u)(can) current ping is : 228 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (dfw)(dfw)  current ping is : 46 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dubai (Middle-East) (dxb)(dxb)  current ping is : 222 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Moses Lake 1 (US Central) (eat)(eat)  current ping is : 83 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (eze)(eze)  current ping is : 161 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Frankfurt (EU West) (fra)(fra)  current ping is : 99 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sao Paulo 1 (SA East) (gru)(gru)  current ping is : 141 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hong Kong (Asia East) (hkg)(hkg)  current ping is : 226 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sterling (US East) (iad)(iad)  current ping is : 14 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Johannesburg, South Africa (ZA) (jnb)(jnb)  current ping is : 282 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Los Angeles (US West) (lax)(lax)  current ping is : 74 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter London (EU North) (lhr)(lhr)  current ping is : 87 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Lima (SA West) (lim)(lim)  current ping is : 120 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chennai (India South-East) (maa)(maa)  current ping is : 225 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Madrid (EU South) (mad)(mad)  current ping is : 109 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Chicago (US Central) (ord)(ord)  current ping is : 28 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Paris (EU West) (par)(par)  current ping is : 91 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Guangzhou 4 (Asua East) (pwg)(pwg)  current ping is : 241 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Cangzhou (Asia North-East) (pwj)(pwj)  current ping is : 238 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Dongcheng Qu (Asia Central) (pwu)(pwu)  current ping is : 261 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Hongshan Qu (Asia South-East) (pww)(pww)  current ping is : 260 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Jiaxing, China (CN) (pwz)(pwz)  current ping is : 219 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Santiago (SA South-West) (scl)(scl)  current ping is : 141 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Seattle (US North-West) (sea)(sea)  current ping is : 79 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Singapore (Asia South-East) (sgp)(sgp)  current ping is : 256 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha)(sha)  current ping is : 219 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : m)(sha) current ping is : 219 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : t)(sha) current ping is : 219 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Shanghai 1 (Asia East) (sha : u)(sha) current ping is : 219 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Unknown (shb)(shb)  current ping is : 232 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter  (sof)(sof)  current ping is : 123 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto)(sto)  current ping is : 104 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Stockholm (Kista) (EU North) (sto : 2)(sto) current ping is : 105 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Sydney (Australia South-East) (syd)(syd)  current ping is : 211 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn)(tsn)  current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : m)(tsn) current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : t)(tsn) current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Xianghe Xian (Asia North-East) (tsn : u)(tsn) current ping is : 239 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo)(tyo)  current ping is : 181 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Tokyo 1 (Asia East) (tyo : 1)(tyo) current ping is : 181 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Vienna (EU Central) (vie)(vie)  current ping is : 111 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Recieved Message for Datacenter Warsaw (EU Central) (waw)(waw)  current ping is : 116 spoofing to: 15 [Harpoon]
+[Harpoon] QP: Writing Pings [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 23
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 56
+	ack_relay: 1507328
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: Message In From Steam Game Coordinator = 14147884 [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 4
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+
+Counter-Strike: Global Offensive
+Map: dz_blacksite
+Players: 9 (0 bots) / 16 humans
+Build: 8012
+Server Number: 2
+
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 4
+	ack_relay: 262144
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 266054
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 5
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 27
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 126
+	ack_relay: 1769472
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+reloadMaterials Call:     
+      edx             : -572260341
+      pSubString      : (null)
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 28
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 131
+	ack_relay: 1835008
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SignalXWriteOpportunity(3)
+Got pure server whitelist: sv_pure = 1.
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 6
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 5
+	ack_relay: 393216
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): ack_relay
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	quality_relay {
+	  instantaneous {
+	    out_packets_per_sec_x10: 31
+	    out_bytes_per_sec: 287
+	    in_packets_per_sec_x10: 85
+	    in_bytes_per_sec: 5926
+	    ping_ms: 14
+	    packets_dropped_pct: 0
+	    packets_weird_sequence_pct: 0
+	    peak_jitter_usec: 1193
+	  }
+	}
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 29
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap relay.rate
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	quality_relay {
+	  instantaneous {
+	    out_packets_per_sec_x10: 187
+	    out_bytes_per_sec: 5506
+	    in_packets_per_sec_x10: 23
+	    in_bytes_per_sec: 105
+	    ping_ms: 15
+	    packets_dropped_pct: 0
+	    packets_weird_sequence_pct: 0
+	    peak_jitter_usec: 7631
+	  }
+	}
+	client_connection_id: 3852617055
+	seq_num_r2c: 133
+	ack_relay: 1900544
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): relay.rate ack_relay
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 8720208
+	flags: 0
+	client_connection_id: 3852617055
+	seq_num_c2r: 30
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_e2e request_ack_asap e2e.rate
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 136
+	ack_relay: 2031616
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+The thread 0x353f8 has exited with code 0 (0x0).
+The thread 0x35858 has exited with code 0 (0x0).
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 7
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 6
+	ack_relay: 458752
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 397129
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 8
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 33
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 140
+	ack_relay: 2162688
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 34
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 142
+	ack_relay: 2228224
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: send_table_crc: 2753007974
+server_count: 2
+is_hltv: false
+friends_id: 1185353740
+friends_name: ""
+custom_files: 0
+custom_files: 0
+custom_files: 0
+custom_files: 0
+ [Harpoon]
+[Harpoon] QP: BY GOLLY ITS A CLIENT INFO SEND! [Harpoon]
+[Harpoon] QP: signon_state: 3
+spawn_count: 2
+num_server_players: 0
+ [Harpoon]
+[Harpoon] QP: NET_SignonState in SendNetMessage 
+signon_state       = 3
+spawn_count        = 2
+num_server_players = 0
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 9
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 7
+	ack_relay: 589824
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): ack_relay
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 39
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 159
+	ack_relay: 2555904
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+'csgo.exe' (Win32): Unloaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vaudio_celt.dll'
+The thread 0x349d4 has exited with code 0 (0x0).
+'csgo.exe' (Win32): Loaded 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\bin\vaudio_celt.dll'. 
+[Harpoon] QP: signon_state: 4
+spawn_count: 2
+num_server_players: 0
+ [Harpoon]
+[Harpoon] QP: NET_SignonState in SendNetMessage 
+signon_state       = 4
+spawn_count        = 2
+num_server_players = 0
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164290533
+event_mask: 2301622834
+event_mask: 268434949
+event_mask: 3095287494
+event_mask: 1770263423
+event_mask: 325571377
+event_mask: 4294895984
+event_mask: 127332
+ [Harpoon]
+[Harpoon] QP: signon_state: 5
+spawn_count: 2
+num_server_players: 0
+ [Harpoon]
+[Harpoon] QP: NET_SignonState in SendNetMessage 
+signon_state       = 5
+spawn_count        = 2
+num_server_players = 0
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164290533
+event_mask: 2301622834
+event_mask: 268434949
+event_mask: 3095287494
+event_mask: 2038698879
+event_mask: 325571387
+event_mask: 4294895984
+event_mask: 127332
+ [Harpoon]
+Error reading file resource/overviews/dz_blacksite_radar_spectate.dds.
+[Harpoon] QP: command: "VModEnable 1"
+ [Harpoon]
+[Harpoon] QP: -- NET_StringCmd -- [Harpoon]
+[Harpoon] QP: VModEnable 1 [Harpoon]
+[Harpoon] QP: command: "VModEnable 1"
+ [Harpoon]
+[Harpoon] QP: -- NET_StringCmd -- [Harpoon]
+[Harpoon] QP: VModEnable 1 [Harpoon]
+[Harpoon] QP: command: "vban 0 0"
+ [Harpoon]
+[Harpoon] QP: -- NET_StringCmd -- [Harpoon]
+[Harpoon] QP: vban 0 0 [Harpoon]
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 5
+	client_connection_id: 3852617055
+	seq_num_c2r: 46
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_asap
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 217
+	ack_relay: 3014656
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from primary iad#183 (162.254.192.83:27029): ack_relay
+Enron connected.
+[Harpoon] QP: baseline_tick: 1555
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 10
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 8
+	ack_relay: 655360
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 528204
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 11
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [TRACE iad#183 (162.254.192.83:27029)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 21434196
+	flags: 0
+	client_connection_id: 3852617055
+	seq_num_c2r: 51
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 12
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	client_connection_id: 3852617055
+	seq_num_r2c: 9
+	ack_relay: 786432
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 13
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+[Harpoon] QP: keyvalues: "\000CrosshairCode\000\001code\000CSGO-6G2cS-WzcxT-fH3dp-Rf7oq-X9oJN\000\013\013"
+ [Harpoon]
+ChangeGameUIState: CSGO_GAME_UI_STATE_LOADINGSCREEN -> CSGO_GAME_UI_STATE_INGAME
+ChangeGameUIState: CSGO_GAME_UI_STATE_INGAME -> CSGO_GAME_UI_STATE_INGAME
+[Harpoon] QP: keyvalues: "\000ClanTagChanged\000\001tag\000\000\001name\000\000\013\013"
+ [Harpoon]
+[Harpoon] ----- WARNING EnqueueVeryLargeAsyncTransfer : Type = 100 WARNING ------ [Harpoon]
+[Harpoon] QP: signon_state: 6
+spawn_count: 2
+num_server_players: 0
+ [Harpoon]
+[Harpoon] QP: NET_SignonState in SendNetMessage 
+signon_state       = 6
+spawn_count        = 2
+num_server_players = 0
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 597
+	client_connection_id: 3852617055
+	seq_num_r2c: 10
+	ack_relay: 851968
+	flags: 1
+SteamNetworkingSockets --- Relay par#125 (185.25.182.68:27031) is going offline in 597 seconds
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 659281
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 14
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_e2e
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay request_ack_e2e
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+CCSGO_BlurTarget - Unable to find panel with the given id "sliding-panel--TERRORIST"! Panel is possibly created dynamically.
+CCSGO_BlurTarget - Unable to find panel with the given id "sliding-panel--CT"! Panel is possibly created dynamically.
+[Harpoon] QP: command: "joingame"
+ [Harpoon]
+[Harpoon] QP: -- NET_StringCmd -- [Harpoon]
+[Harpoon] QP: joingame [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+ÐšÐ¾Ñ‚Ð°Ð½ÐºÑƒÐ» connected.
+[Harpoon] QP: baseline_tick: 2147
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: convars {
+  cvars {
+    value: "5"
+    dictionary_name: 21
+  }
+}
+ [Harpoon]
+[Harpoon] QP: keyvalues: "\000ClanTagChanged\000\001tag\000\000\001name\000\000\013\013"
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 15
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 594
+	client_connection_id: 3852617055
+	seq_num_r2c: 11
+	ack_relay: 983040
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): ack_relay
+foad.tabatabaei connected.
+[Harpoon] QP: baseline_tick: 2295
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 2307
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 2420
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+Ð—ÐÐ”Ð ÐžÐ¢ connected.
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 16
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 592
+	client_connection_id: 3852617055
+	seq_num_r2c: 12
+	ack_relay: 1048576
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 790349
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 17
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+[Harpoon] QP: baseline_tick: 2530
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+afdsgb93 connected.
+[Harpoon] QP: baseline_tick: 2594
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+Ð’Ð±Ð¸Ð²Ñ†Ñ connected.
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 2905
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+Player: Enron - Damage Given
+-------------------------
+Player: Enron - Damage Taken
+-------------------------
+Damage Taken from "21Across the Map" - 168 in 2 hits
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	quality_relay {
+	  instantaneous {
+	    out_packets_per_sec_x10: 0
+	    out_bytes_per_sec: 0
+	    in_packets_per_sec_x10: 0
+	    in_bytes_per_sec: 0
+	    ping_ms: 97
+	  }
+	}
+	seconds_until_shutdown: 581
+	client_connection_id: 3852617055
+	seq_num_r2c: 13
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): relay.rate
+[Harpoon] QP: baseline_tick: 3098
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 855886
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 18
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+âœªFasTIKâœª connected.
+[Harpoon] QP: baseline_tick: 3120
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: baseline_tick: 3202
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+Ñ„ÑƒÑ… ÑƒÐ±Ð¸Ð» Ð‘Ð•Ð¢ÐœÐ•Ð connected.
+[Harpoon] QP: baseline_tick: 3261
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+engin20043 connected.
+[Harpoon] QP: baseline_tick: 3336
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- Ping measurement completed
+SteamNetworkingSockets --- Ping location: iad=16+1,atl=29+2/29+1,ord=31+3,dfw=44+4,lax=70+7,sea=78+7/83+1,eat=83+8/84+3,lhr=88+13,par=95+9/93+1,fra=101+10/101+1,gru=142+14,sgp=266+26/255+7
+SteamNetworkingSockets --- RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (Refreshing ping measurements)
+[Harpoon] QP: baseline_tick: 3381
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 3604
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+_BarboSA_ connected.
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 3622
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+coÐ²raÄ¸aÎ¹ âŒ˜ connected.
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- Destroying relay 'fra#328 (via sspc-any 143.131.179.67:65179)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'par#125 (via sspc-any 143.131.179.68:35710)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'sto#110 (via sspc-any 143.131.179.71:56048)' because alt_ping_complete
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- Destroying relay 'ams#16 (via sspc-any 143.131.179.65:8190)' because alt_ping_complete
+SteamNetworkingSockets --- Destroying relay 'lhr#36 (via sspc-any 143.131.179.64:4219)' because alt_ping_complete
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 571
+	client_connection_id: 3852617055
+	seq_num_r2c: 14
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 921415
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 19
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+[Harpoon] QP: baseline_tick: 3857
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 3891
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 3914
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 4147
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 4220
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 4414
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+you mom connected.
+[Harpoon] QP: baseline_tick: 4426
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 560
+	client_connection_id: 3852617055
+	seq_num_r2c: 15
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 986957
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 20
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+[Harpoon] QP: baseline_tick: 4553
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 4575
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: baseline_tick: 4625
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 5049
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 550
+	client_connection_id: 3852617055
+	seq_num_r2c: 16
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1052497
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 21
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 5288
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+Player: Enron - Damage Given
+-------------------------
+Player: Enron - Damage Taken
+-------------------------
+Damage Taken from "TobyKzda" - 129 in 7 hits
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 5485
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 5539
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 5622
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 540
+	client_connection_id: 3852617055
+	seq_num_r2c: 17
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1118025
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 22
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 6147
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+StopSister connected.
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 6279
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 6333
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+[Harpoon] QP: baseline_tick: 6399
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 6423
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 529
+	client_connection_id: 3852617055
+	seq_num_r2c: 18
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1183555
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 23
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+[Harpoon] QP: baseline_tick: 6481
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 6671
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 6873
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 6932
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+blakmezagordon connected.
+[Harpoon] QP: baseline_tick: 7044
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 7071
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 519
+	client_connection_id: 3852617055
+	seq_num_r2c: 19
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1249096
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 24
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+[Harpoon] QP: baseline_tick: 7123
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 7268
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.life
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.life ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 7486
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 7531
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.life
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.life
+[Harpoon] QP: baseline_tick: 7620
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+Player: Enron - Damage Given
+-------------------------
+Player: Enron - Damage Taken
+-------------------------
+Damage Taken from "21Across the Map" - 128 in 1 hit
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+[Harpoon] QP: baseline_tick: 7649
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 7734
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 508
+	client_connection_id: 3852617055
+	seq_num_r2c: 20
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1314637
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 25
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+[Harpoon] QP: baseline_tick: 7819
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 7921
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 8089
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 8120
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 8255
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 498
+	client_connection_id: 3852617055
+	seq_num_r2c: 21
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1380162
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 26
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 8647
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 8699
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: baseline_tick: 8717
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: convars {
+  cvars {
+    value: "6551816145700"
+    dictionary_name: 29
+  }
+}
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 8739
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 487
+	client_connection_id: 3852617055
+	seq_num_r2c: 22
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1445707
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 27
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 477
+	client_connection_id: 3852617055
+	seq_num_r2c: 23
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1511237
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 28
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- Cluster 'lhr' selection penalty for load balancing purposes changed from 5ms to 6ms.  (As per lhr#36 (162.254.196.82:27030)).
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	flags: 13
+	client_connection_id: 3852617055
+	seq_num_c2r: 29
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (Probe) via backup par#125 (185.25.182.68:27031): request_ack_relay request_ack_asap backup_session
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 472
+	client_connection_id: 3852617055
+	seq_num_r2c: 24
+	ack_relay: 1900544
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1576773
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 30
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 461
+	client_connection_id: 3852617055
+	seq_num_r2c: 25
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1642306
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 31
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+The thread 0x16ee0 has exited with code 0 (0x0).
+The thread 0x8610 has exited with code 0 (0x0).
+[Harpoon] QP: baseline_tick: 10823
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 451
+	client_connection_id: 3852617055
+	seq_num_r2c: 26
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1707846
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 32
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): e2e.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): e2e.rate
+[Harpoon] QP: baseline_tick: 11375
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 11547
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 11836
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 11861
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 11918
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Recv CMsgSteamDatagramConnectionStatsRouterToClient (0x0d):
+	seconds_until_shutdown: 440
+	client_connection_id: 3852617055
+	seq_num_r2c: 27
+	flags: 1
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd standalone stats from backup par#125 (185.25.182.68:27031): request_ack_relay
+[Harpoon] QP: baseline_tick: 12039
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [TRACE par#125 (185.25.182.68:27031)] Send CMsgSteamDatagramConnectionStatsClientToRouter (0x0d):
+	ack_relay: 1773380
+	flags: 8
+	client_connection_id: 3852617055
+	seq_num_c2r: 33
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (RelayAckPended) via backup par#125 (185.25.182.68:27031): ack_relay backup_session
+Tried to look up command use as if it were a variable.
+[Harpoon] QP: command: "use weapon_tablet"
+ [Harpoon]
+[Harpoon] QP: -- NET_StringCmd -- [Harpoon]
+[Harpoon] QP: @}û [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+The thread 0x34d38 has exited with code 0 (0x0).
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): request_ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): ack_relay
+[Harpoon] QP: baseline_tick: 12374
+baseline_nr: 0
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: baseline_tick: 12512
+baseline_nr: 1
+ [Harpoon]
+[Harpoon] QP: Baseline [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+[Harpoon] QP: event_mask: 2474240907
+event_mask: 164298725
+event_mask: 2301622834
+event_mask: 268435013
+event_mask: 3095361222
+event_mask: 4186182527
+event_mask: 4085248827
+event_mask: 4294895990
+event_mask: 127358
+ [Harpoon]
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): request_ack_relay ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Sent stats (data) via primary iad#183 (162.254.192.83:27029): relay.rate
+SteamNetworkingSockets --- [#3852617055 SDR server steamid:90143522458439690(vport 0)] Recvd inline stats from primary iad#183 (162.254.192.83:27029): ack_relay
+Critical error detected c0000374
+csgo.exe has triggered a breakpoint.
+
+The program '[213404] csgo.exe' has exited with code 0 (0x0).

@@ -1,0 +1,37 @@
+    class IMatchFramework: public IAppSystem{
+    public:
+    	// Run frame of the matchmaking framework
+    	virtual void RunFrame() = 0;
+     
+     
+    	// Get matchmaking extensions
+    	virtual IMatchExtensions * GetMatchExtensions() = 0;
+     
+    	// Get events container
+    	virtual IMatchEventsSubscription * GetEventsSubscription() = 0;
+     
+    	// Get the matchmaking title interface
+    	virtual IMatchTitle * GetMatchTitle() = 0;
+     
+    	// Get the match session interface of the current match framework type
+    	virtual IMatchSession * GetMatchSession() = 0;
+     
+    	// Get the network msg encode/decode factory
+    	virtual IMatchNetworkMsgController * GetMatchNetworkMsgController() = 0;
+     
+    	// Get the match system
+    	virtual IMatchSystem * GetMatchSystem() = 0;
+     
+     
+    	// Entry point to create session
+    	virtual void CreateSession(KeyValues *pSettings) = 0;
+     
+    	// Entry point to match into a session
+    	virtual void MatchSession(KeyValues *pSettings) = 0;
+     
+    	// Accept invite
+    	virtual void AcceptInvite(int iController) = 0;
+     
+    	// Close the session
+    	virtual void CloseSession() = 0;
+    };

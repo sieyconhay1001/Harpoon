@@ -1,0 +1,220 @@
+:
+  0000  6b 63 75 66 7d bb 98 8a 84 96 83 9d 00 00 00 00  kcuf}...........
+  0010  00 00 00 00                                      ....
+Voice Data Dump
+:
+  0000  6b 63 75 66 7d bd 98 8a 84 96 83 9d 00 00 00 00  kcuf}...........
+  0010  00 00 00 00                                      ....
+Voice Data Dump
+:
+  0000  6b 63 75 66 7d bf 98 8a 84 96 83 9d 00 00 00 00  kcuf}...........
+  0010  00 00 00 00                                      ....
+Voice Data Dump
+:
+  0000  6b 63 75 66 7d b3 98 8a 84 96 83 9d 00 00 00 00  kcuf}...........
+  0010  00 00 00 00                                      ....
+Voice Data Dump
+:
+  0000  6b 63 75 66 7d b7 98 8a 84 96 83 9d 00 00 00 00  kcuf}...........
+  0010  00 00 00 00                                      ....
+Voice Data Dump
+:
+  0000  6b 63 75 66 7d 89 98 8a 84 96 83 9d 00 00 00 00  kcuf}...........
+  0010  00 00 00 00                                      ....
+Voice Data Dump
+:
+  0000  6b 63 75 66 7d 8b 98 8a 84 96 83 9d 00 00 00 00  kcuf}...........
+  0010  00 00 00 00                                      ....
+Voice Data Dump
+
+
+CSVCMsg_VoiceData_Legacy : 
+   client                     : 10
+   audible_mask               : 3
+   xuid_low                   : 1718969195
+   xuid_high                  : -1968529795
+   proximity                  : 1
+   format                     : 0
+   sequence_bytes             : -1652451512
+   section_number             : -1969709449
+   uncompressed_sample_offset : -1652386268
+Voice Data Dump
+:
+  0000  6b 63 75 66 7d 82 aa 8a 48 97 81 9d 77 82 98 8a  kcuf}...H...w...
+  0010  24 96 82 9d                                      $...
+Voice Data Dump
+:
+  0000  6b 63 75 66 77 9f 98 8a 24 96 82 9d 71 9f e0 8a  kcufw...$...q...
+  0010  8c 96 83 9d                                      ....
+Voice Data Dump
+:
+  0000  /*6b 63 75 66*/ kcuf  7d 9e aa 8a 48 97 81 9d 77 9e 98 8a  kcuf}...H...w...
+  0010  24 96 82 9d     $...
+  
+  
+  
+  
+  
+CSVCMsg_VoiceData_Legacy : 
+   client                     : 10
+   audible_mask               : 3
+   xuid_low                   : 1718969195
+   xuid_high                  : -1964993679
+   proximity                  : 1
+   format                     : 0
+   sequence_bytes             : -1652320628
+   section_number             : -1968532611
+   uncompressed_sample_offset : -1652451512
+Critical error detected c0000374
+csgo.exe has triggered a breakpoint.
+Onetap Shared ESP
+    TickCount 316663 
+userid  : 117
+counter : 154
+x       : -29662   -   3106.000000
+y       : -26969   -   1703.000000
+z       : -25591   -   3081.000000
+
+Onetap Shared ESP
+    TickCount 316686 
+userid  : 117
+counter : 99
+x       : -29281   -   3487.000000
+y       : -26889   -   1783.000000
+z       : -25591   -   3081.000000
+
+Onetap Shared ESP
+    TickCount 316688 
+userid  : 117
+counter : 98
+x       : -29285   -   3483.000000
+y       : -26892   -   1780.000000
+z       : -25592   -   3080.000000
+
+Onetap Shared ESP
+    TickCount 316690 
+userid  : 117
+counter : 103
+x       : -29307   -   3461.000000
+y       : -27123   -   1549.000000
+z       : -25355   -   3317.000000
+
+Onetap Shared ESP
+    TickCount 316692 
+userid  : 117
+counter : 102
+x       : -29311   -   3457.000000
+y       : -27134   -   1538.000000
+z       : -25356   -   3316.000000
+
+Onetap Shared ESP
+    TickCount 316694 
+userid  : 117
+counter : 120
+x       : -29302   -   3466.000000
+y       : -27132   -   1540.000000
+z       : -25354   -   3318.000000
+
+Onetap Shared ESP
+    TickCount 316696 
+userid  : 117
+counter : 122
+x       : -29264   -   3504.000000
+y       : -27118   -   1554.000000
+z       : -25359   -   3313.000000
+
+Onetap Shared ESP
+    TickCount 316699 
+userid  : 117
+counter : 124
+x       : -29252   -   3516.000000
+y       : -27113   -   1559.000000
+z       : -25354   -   3318.000000
+
+Onetap Shared ESP
+    TickCount 316702 
+userid  : 117
+counter : 126
+x       : -29278   -   3490.000000
+y       : -27091   -   1581.000000
+z       : -25353   -   3319.000000
+
+Onetap Shared ESP
+    TickCount 316704 
+userid  : 117
+counter : 114
+x       : -29225   -   3543.000000
+y       : -27077   -   1595.000000
+z       : -25590   -   3082.000000
+
+Onetap Shared ESP
+    TickCount 316706 
+userid  : 117
+counter : 116
+x       : -29221   -   3547.000000
+y       : -27085   -   1587.000000
+z       : -25585   -   3087.000000
+
+Onetap Shared ESP
+    TickCount 316708 
+userid  : 117
+counter : 73
+x       : -29246   -   3522.000000
+y       : -27088   -   1584.000000
+z       : -25600   -   3072.000000
+
+Onetap Shared ESP
+    TickCount 316710 
+userid  : 117
+counter : 72
+x       : -29235   -   3533.000000
+y       : -27082   -   1590.000000
+z       : -25594   -   3078.000000
+
+Onetap Shared ESP
+    TickCount 316736 
+userid  : 117
+counter : 82
+x       : -29365   -   3403.000000
+y       : -27082   -   1590.000000
+z       : -25599   -   3073.000000
+
+Onetap Shared ESP
+    TickCount 316738 
+userid  : 117
+counter : 87
+x       : -29326   -   3442.000000
+y       : -27083   -   1589.000000
+z       : -25597   -   3075.000000
+
+Onetap Shared ESP
+    TickCount 316740 
+userid  : 117
+counter : 86
+x       : -29315   -   3453.000000
+y       : -27084   -   1588.000000
+z       : -25597   -   3075.000000
+
+Onetap Shared ESP
+    TickCount 316825 
+userid  : 117
+counter : 253
+x       : -29039   -   3729.000000
+y       : -27118   -   1554.000000
+z       : -25544   -   3128.000000
+
+Onetap Shared ESP
+    TickCount 316827 
+userid  : 117
+counter : 255
+x       : -29027   -   3741.000000
+y       : -27106   -   1566.000000
+z       : -25544   -   3128.000000
+
+Onetap Shared ESP
+    TickCount 316829 
+userid  : 117
+counter : 241
+x       : -29032   -   3736.000000
+y       : -27110   -   1562.000000
+z       : -25544   -   3128.000000
